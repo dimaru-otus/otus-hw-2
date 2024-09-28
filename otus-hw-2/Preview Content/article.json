@@ -1,0 +1,39 @@
+{
+  "uri": "8337911523",
+  "lang": "eng",
+  "isDuplicate": false,
+  "date": "2024-09-26",
+  "time": "10:10:12",
+  "dateTime": "2024-09-26T10:10:12Z",
+  "dateTimePub": "2024-09-26T10:09:23Z",
+  "dataType": "news",
+  "sim": 0,
+  "url": "https://www.cnet.com/tech/services-and-software/the-passwordless-future-is-here-how-to-set-up-a-passkey-for-your-google-account/",
+  "title": "The Passwordless Future Is Here: How to Set Up a Passkey for Your Google Account",
+  "body": "Nelson Aguilar is an LA-based tech how-to writer and graduate of UCLA. With more than a decade of experience, he covers Apple and Google and writes on iPhone and Android features, privacy and security settings and more.\n\nAt this point, you're probably aware of what Passkeys are -- the FIDO Alliance-developed authentication method that was quickly adopted by the likes of Apple, Google and Microsoft. While adoption hasn't been the fastest, passkeys are slowly becoming the \"solution\" to passwords, offering more security and giving users one less thing to worry about -- an overly long and complicated password to remember.\n\nAt the forefront of the passkey push is Google, which offers easy ways to set up and sync your passkeys across devices through the Chrome browser. If you're new to passkeys and want to get started, one of the best places to begin is creating one for your Google account -- because you obviously have one of those.\n\nBelow, we'll show you how to set up a passkey for your Google account and get a glimpse of the passwordless future tech giants are promising us. For more, don't miss what you need to know about your iPhone's new RCS support and this nifty hack to free up space in your Gmail account without deleting all of your emails.\n\nBefore you set up your Google passkeys, you must meet the following requirements, which vary depending on what device you're using.\n\nIn the web browser of your choice -- on your phone, tablet or computer -- head over to g.co/passkeys. If you're already logged in to your current Google account, you'll be asked to enter your normal password to verify your identity. If you need to switch accounts, tap the current email to choose from all your other Google accounts.\n\nNow enter your password when prompted, and hit Next. On the following page, you'll be asked to create a passkey. When the pop-up appears, hit Continue. The passkey will be saved to your device (for example, iCloud Keychain on iOS), which varies depending on your device.\n\nYou'll need to follow any prompts and use whatever biometric your device asks to confirm your identity. Once you do, your passkey will be created for that device.\n\nNote: There is an option to create a passkey using another device (tablet, external security key), but the easiest method is to just create the passkey on the device you're using.\n\nYou can now use your passkey to log in to your Google account. If you have two-factor authentication enabled, your passkey bypasses 2FA because a passkey means you have physical possession of your phone, which is what 2FA essentially does. Also, if you don't want to use your passkey for any reason, you can always use your password to log in.\n\nIf for any reason you lose your device or have it stolen, you can still log in to your Google account. Using another device that has access to your Google account: Go to g.co/passkeys, sign in to your account using your usual password and remove the passkey associated with your lost or stolen device. Just hit the X next to the passkey and then hit Remove to get rid of it and go back to using your password.",
+  "source": {
+    "uri": "cnet.com",
+    "dataType": "news",
+    "title": "CNET"
+  },
+  "authors": [
+  ],
+  "links": [
+    "https://fidoalliance.org/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard-to-accelerate-availability-of-passwordless-sign-ins/",
+    "https://www.cnet.com/tech/mobile/switch-to-passkeys-more-secure-than-passwords-on-ios-16-iphone-14/",
+    "https://www.cnet.com/tech/services-and-software/googles-new-passkey-login-helps-you-break-free-of-passwords/",
+    "https://www.cnet.com/tech/services-and-software/google-moves-closer-to-a-future-without-passwords-with-passkey-syncing/",
+    "https://www.cnet.com/tech/services-and-software/how-passkeys-will-usher-in-a-safer-passwordless-future/",
+    "https://www.cnet.com/tech/services-and-software/ios-18-what-you-need-to-know-about-rcs-messaging-on-your-iphone/",
+    "https://www.cnet.com/tech/services-and-software/gmail-inbox-full-clear-space-and-score-15gb-of-free-storage/",
+    "https://www.anrdoezrs.net/links/3586864/type/dlg/sid/subid_value/https://store.google.com/us/product/titan_security_key?hl=en-US",
+    "http://g.co/passkeys",
+    "https://www.cnet.com/tech/services-and-software/ios-18-boost-your-iphones-security-by-locking-and-hiding-apps/",
+    "https://www.cnet.com/tech/services-and-software/new-iphone-16-first-change-these-7-settings-in-ios-18/"
+  ],
+  "image": "https://www.cnet.com/a/img/resize/c3ad45754ab89bd66853ea423e227710cf3d35d8/hub/2022/08/25/f0a2866b-e71b-40d6-9c3d-2d0c873b3407/gettyimages-1242657903.jpg?auto=webp&fit=crop&height=675&width=1200",
+  "eventUri": null,
+  "sentiment": 0.3647058823529412,
+  "wgt": 465041412,
+  "relevance": 2
+}

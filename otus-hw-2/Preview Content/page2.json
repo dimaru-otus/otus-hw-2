@@ -1,0 +1,719 @@
+{
+  "articles": {
+    "results": [
+      {
+        "uri": "8337864356",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-09-26",
+        "time": "09:38:46",
+        "dateTime": "2024-09-26T09:38:46Z",
+        "dateTimePub": "2024-09-26T09:38:36Z",
+        "dataType": "news",
+        "sim": 0.7333333492279053,
+        "url": "https://www.techradar.com/phones/samsung-galaxy-phones/the-samsung-galaxy-s25-ultra-could-be-even-more-powerful-than-the-iphone-16-pro-max",
+        "title": "The Samsung Galaxy S25 Ultra could be even more powerful than the iPhone 16 Pro Max",
+        "body": "The Samsung Galaxy S24 Ultra playing Call of Duty Mobile (Image credit: Philip Berne / Future)\n\nApple's iPhone chipsets are almost always the most powerful smartphone chipsets available, scoring significantly higher than Android rivals in benchmarks. However, things could be different this year - or at least early next year, as that's when we're expecting the Samsung Galaxy S25 Ultra to launch - with a new benchmark leak suggesting it could have Apple beat.\n\nA Geekbench result for the phone was shared by leaker @UniverseIce on X, and it achieved a single-core score of 3,011 and a multi-core result of 9,706. To put that in perspective, the Samsung Galaxy S24 Ultra has an average single-core score of 2,142 and an average multi-core score of 6,693. So this would make for a huge upgrade on the current model.\n\nNot only that, it would also likely outperform the A18 Pro chipset in the iPhone 16 Pro Max, at least for multi-core results.\n\nThere haven't been enough tests of the A18 Pro yet for Geekbench to display its average scores, but in our own tests we found the iPhone 16 Pro Max had a single-core result of 3,386 and a multi-core result of 8,306 - that's still better than Samsung in single-core tests, but way behind the Galaxy S25 Ultra for multi-core.\n\nNow, there are a few things to bear in mind here. First of all, this is just one benchmark, and an early one at that, so it's very possible that it won't end up being representative of the Samsung Galaxy S25 Ultra's actual performance.\n\nPlus, this is a model of the phone with a Snapdragon 8 Gen 4 chipset, and it's possible that in some regions it will get an Exynos chipset instead. That's quite likely for some models in the Samsung Galaxy S25 line anyway, based on past form.\n\nOn the other hand, many other Android phones will probably also have a Snapdragon 8 Gen 4 chipset, so it could be that quite a few upcoming Android phones can rival or beat the iPhone 16 Pro Max's performance.\n\nWe should have a clearer idea soon, as the likes of the OnePlus 13 and Xiaomi 15 will probably be equipped with this chipset, and are likely to land before the end of the year.",
+        "source": {
+          "uri": "techradar.com",
+          "dataType": "news",
+          "title": "TechRadar"
+        },
+        "authors": [
+          {
+            "uri": "james_rogerson@techradar.com",
+            "name": "James Rogerson",
+            "type": "author",
+            "isAgency": false
+          }
+        ],
+        "links": [
+          "https://www.techradar.com/phones/samsung-galaxy-phones/samsung-galaxy-s25",
+          "https://x.com/UniverseIce/status/1838901773542543654",
+          "https://www.techradar.com/phones/samsung-galaxy-phones/samsung-galaxy-s24-ultra-review",
+          "https://www.techradar.com/phones/iphone/iphone-16-pro-max",
+          "https://www.techradar.com/phones/snapdragon-8-gen-4",
+          "https://futureplc.com/terms-conditions/",
+          "https://futureplc.com/privacy-policy/",
+          "https://www.techradar.com/phones/samsung-galaxy-phones/whoops-samsung-accidentally-leaks-prices-for-the-galaxy-tab-s10-ultra-and-galaxy-s24-fe",
+          "https://www.techradar.com/news/best-samsung-phones"
+        ],
+        "image": "https://cdn.mos.cms.futurecdn.net/zSvWg9RvakXpNdi4QrSVue-1200-80.jpg",
+        "eventUri": "fra-1110418",
+        "sentiment": 0.1843137254901961,
+        "wgt": 465039526,
+        "relevance": 2
+      },
+      {
+        "uri": "8337861510",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-09-26",
+        "time": "09:37:51",
+        "dateTime": "2024-09-26T09:37:51Z",
+        "dateTimePub": "2024-09-26T09:36:41Z",
+        "dataType": "news",
+        "sim": 0.6313725709915161,
+        "url": "https://www.digitimes.com/news/a20240925PD220/iphone-lgd-sales-apple-2024.html",
+        "title": "iPhone 16 sales fall short, LGD faces challenges",
+        "body": "Apple's iPhone 16 has seen lower-than-expected initial sales, deepening concerns for South Korean display manufacturers. According to recent reports from South Korean media, LG Display (LGD) is facing particularly severe challenges.\n\nCiting industry sources, South Korean media DealSite reported that the iPhone 16 series' initial sales performance has fallen short of expectations, which is expected to impact South Korean OLED panel suppliers' performance in the second half of 2024.\n\nThe iPhone 16 debuted on September 20, in key markets such as South Korea, the US, and China. Although South Korea's three major telecom providers saw their pre-order stock sell out, a closer look revealed that demand for the iPhone 16 differs significantly from the iPhone 15.\n\nSouth Korean media analysis suggests that while the initial supply of iPhone 16 sold out in South Korea, this was due to a lower supply in 2024 compared to 2023, leading to inventory shortages. This is seen as a temporary phenomenon, with similar situations reported in the US and China. Industry sources indicate that global pre-orders for the iPhone 16 have dropped by approximately 13% compared to the iPhone 15.\n\nAn analyst from SK Securities noted that IT demand was initially expected to rebound in the second half of 2024. However, this rebound might not occur until 2025, with sluggish demand in the US and China being the primary factors. The demand for iPhones appears to be affected by weaker consumer demand.\n\nThe iPhone 16 series includes the base model, iPhone 16 Plus, iPhone 16 Pro, and the flagship iPhone 16 Pro Max. Samsung Display (SDC) supplies OLED panels for the entire iPhone 16 series, while LGD provides OLED panels for the iPhone 16 Pro and iPhone 16 Pro Max models.\n\nThe iPhone 16 Pro and Pro Max feature 6.3-inch and 6.9-inch screens. Panel prices for the two aforementioned models are higher than the base model's 6.1-inch display.\n\nOn the surface, SDC seems more vulnerable to iPhone sales performance due to supplying panels for the entire series, approximately twice the supply volume of LGD. However, SDC is less affected since it supplies OLED panels to Samsung Electronics and several Chinese smartphone manufacturers. In contrast, LGD's reliance on Apple as a core client makes the company significantly more vulnerable.\n\nLGD had high hopes for the iPhone 16 in 2024. In 2023, LGD faced delays in supplying panels for iPhones. However, LGD managed to resolve these supply issues in 2024.\n\nSuccessful iPhone 16 sales were expected to boost LGD's performance. However, the much-anticipated \"Apple Intelligence\" on the iPhone 16 isn't fully baked and there is little hardware difference compared to the iPhone 15 series. This is disappointing news for LGD, which hoped to benefit from Apple's orders.\n\nInitially, the South Korean securities industry and market predicted that LGD would return to profitability in the second half of 2024 with the launch of the iPhone 16. However, some are concerned that LGD's recovery might slow due to the underwhelming initial sales of the iPhone 16.\n\nIn the second quarter of 2024, SDC reported a revenue of KRW7.65 trillion (approx. US$5.734 billion) and an operating profit of KRW1 trillion. In contrast, LGD posted revenue of KRW6.7 trillion in the same period but suffered an operating loss of KRW93.7 billion, making LGD's return to profitability critical.",
+        "source": {
+          "uri": "digitimes.com",
+          "dataType": "news",
+          "title": "DIGITIMES"
+        },
+        "authors": [
+        ],
+        "links": [
+        ],
+        "image": "https://img.digitimes.com/newsshow/20240925pd220_files/1_b.jpg",
+        "eventUri": "eng-9928415",
+        "sentiment": -0.1529411764705882,
+        "wgt": 465039471,
+        "relevance": 9
+      },
+      {
+        "uri": "8337861332",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-09-26",
+        "time": "09:37:31",
+        "dateTime": "2024-09-26T09:37:31Z",
+        "dateTimePub": "2024-09-26T09:36:32Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://www.indiatimes.com/explainers/technology/amazon-great-indian-festival-time-to-grab-iphone-13-at-just-rs-37000-642625.html",
+        "title": "Amazon Great Indian Festival Sale: Time to grab iPhone 13 at just Rs 37,000",
+        "body": "Along with various offers and mega deals, the one thing which is catching everyone's eye is the Apple iPhone 13. The price of this model was Rs 79,900 when it was launched in September 2021. And now, during the sale, it will be offered at a jaw-dropping price of just Rs 37,000 including bank discounts!\n\nThe festive season is almost here, and you know what that means? It's \"Sale\" unlimited, everywhere! The Amazon's Great Indian Festival sale, which is starting tomorrow, is something which you definitely don't want to miss. And if you are a Prime member, then hurry up! Because the sale has already started.\n\nNow, here's the tea. Along with various offers and mega deals, the one thing which is catching everyone's eye is the Apple iPhone 13. The price of this model was Rs 79,900 when it was launched in September 2021. And now, during the sale, it will be offered at a jaw-dropping price of just Rs 37,000 including bank discounts!\n\nCredit: Apple\n\nYes, you heard that right! That's over fifty percent off, making this an ideal time for you to upgrade to a new phone, and amp your style quotient this festive season. This isn't just about getting a great deal, it's about making your festivals even more glamorous while saving a lot of money. Why spend your entire salary on a new phone when you can obtain one for a fraction of the cost? And more savings on sale means more outfits for the festivals, ain't it?\n\nImagine unboxing your brand-new iPhone 13 right before the festivals. Along with its various features, the very demure, very mindful Instagram-approved camera, you'll be able to record all your \"festive special\" OOTDs, festive decors, foodie boomerangs, is gonna be your favourite app for the festivals.\n\nNow, let's talk about the features of the Apple iPhone 13. The A15 Bionic chip continues to provide outstanding performance, allowing for seamless and efficient multitasking. The iPhone features a 6.1-inch Super Retina XDR display that provides bright colours and improved clarity while viewing content.\n\nThe smartphone's optics include a sophisticated dual-camera system with 12MP Wide and ultra-wide lenses, as well as capabilities like Photographic Styles, Night mode, and 4K Dolby Vision HDR recording. Furthermore, the 12MP TrueDepth front camera offers Night mode and HDR recording, resulting in breathtaking shots and selfies in any light.\n\nPro tip: If you have the Amazon Prime membership, then you can enjoy the sale benefits a day before the sale starts.",
+        "source": {
+          "uri": "indiatimes.com",
+          "dataType": "news",
+          "title": "IndiaTimes"
+        },
+        "authors": [
+        ],
+        "links": [
+        ],
+        "image": "https://im.indiatimes.in/content/template/share/642625.jpg",
+        "eventUri": null,
+        "sentiment": 0.1450980392156862,
+        "wgt": 465039451,
+        "relevance": 3
+      },
+      {
+        "uri": "8337860975",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-09-26",
+        "time": "09:37:18",
+        "dateTime": "2024-09-26T09:37:18Z",
+        "dateTimePub": "2024-09-26T09:36:18Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://dnyuz.com/2024/09/26/why-does-my-iphone-keep-asking-me-to-check-in-with-my-ex/",
+        "title": "Why Does My iPhone Keep Asking Me to Check In With My Ex?",
+        "body": "Simon was waiting for a ride home one evening when he received a strange notification on his iPhone. It appeared with the iMessage logo, almost like a text message, but it was a suggestion from Siri, Apple's virtual assistant. \"Start a Check In with Daniel,\" the phone prompted him. \"Let them know when you arrive at your destination.\"\n\nSimon, who works in artificial intelligence at a company in British Columbia and asked to be identified only by his first name because he was commenting on the work of another tech company, was amused by the notification and took a screenshot. Daniel was his old roommate who lived nearly 5,000 miles away, on a completely different continent: Why on earth would his phone think he'd want to check in with him?\n\n\"I found it funny,\" Simon said in a phone interview. \"He is in my Favorites on my phone, so I'm guessing that's how Apple does these recommendations. But it still just doesn't make any sense, because I also have his address saved in my contacts, so my phone should know that we live on different continents.\"\n\nOther iPhone users have not been so amused by the Siri feature, which was released with iOS 17 last year. Since then, the internet has been inundated with posts from users wondering why their phones want them to check in with seemingly random contacts.\n\nMany have taken to Reddit, describing the prompts as distressing or surprising, with some saying the messages had caused tension in their relationships over what felt like an attempt to control their movements. One user was asked to Check In with an ex they were no longer in touch with and others were asked to send them to managers, casual acquaintances, old enemies and, on at least one occasion, a deceased mother.\n\nLeo Margul, a 37-year-old writer living in Los Angeles, said that on two occasions he was leaving concerts when Siri prompted him to start a Check In with his mother, who lives across the country in Boston. When he posted the screenshot to Reddit, other users chimed in to say that they had received similar notifications, but that their parents had passed away.\n\n\"Many of the top comments were from folks expressing a deep regret that they didn't speak to their now deceased mother, or parent, when they were still alive,\" Mr. Margul said in an interview. \"Others talked about how they still check in with their mom or parents regardless of their age or sometimes their circumstances.\"\n\nHow exactly the Check In feature works is a secret Apple guards very closely. According to a company news release from June 2023, Check In was designed as a feature \"for when a user wants to notify a family member or friend that they have made it to their destination safely.\"\n\n\"After a user initiates a Check In, their friend or family member will automatically be notified as soon as the user arrives,\" the release said. \"If they are not making progress toward their destination, useful information will be temporarily shared with the selected contact, such as the device's location, battery level and cell service status. Any information shared is end-to-end encrypted.\"\n\nBut how exactly does your phone decide when the time is right to start a Check In? The feature hinges on Siri Suggestions, a function that, according to Apple, is based on a variety of factors, including what information is stored on your device and how you use your phone. Whether or not you actually start the Check In is up to you. Users can also turn off Siri Suggestions entirely, which will stop the notifications.\n\nStill, some iPhone users are skeptical about using Check In without knowing exactly how it works.\n\n\"There's something creepy about the fact that it isn't readily explained how this feature works and how it chooses who to suggest,\" Mr. Margul said. \"That said, ultimately it reminded me to check in with people I would like to contact more often, so I appreciate that. It would just be great to know the exact privacy cost of that suggestion.\"",
+        "source": {
+          "uri": "dnyuz.com",
+          "dataType": "news",
+          "title": "DNyuz"
+        },
+        "authors": [
+        ],
+        "links": [
+          "https://www.apple.com/newsroom/2023/06/ios-17-makes-iphone-more-personal-and-intuitive/",
+          "https://www.reddit.com/r/iphone/comments/1eg71co/what_triggered_siri_to_tell_me_to_start_a_checkin/",
+          "https://www.reddit.com/r/iphone/comments/17o76hz/comment/ksfsfuu/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button",
+          "https://support.apple.com/guide/iphone/about-siri-suggestions-iph6f94af287/ios#:~:text=Turn%20Siri%20Suggestions%20on%20or,turn%20settings%20on%20or%20off.",
+          "https://www.nytimes.com/"
+        ],
+        "image": "https://dnyuz.com/wp-content/uploads/2024/09/Why-Does-My-iPhone-Keep-Asking-Me-to-Check-In.jpg",
+        "eventUri": null,
+        "sentiment": 0.2156862745098038,
+        "wgt": 465039438,
+        "relevance": 3
+      },
+      {
+        "uri": "8337860395",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-09-26",
+        "time": "09:36:44",
+        "dateTime": "2024-09-26T09:36:44Z",
+        "dateTimePub": "2024-09-26T09:35:53Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://www.stackumbrella.com/flipkart-big-billion-days-sale-starts-27-sep/",
+        "title": "Flipkart Big Billion Days Sale Starts Tomorrow, has many Discounts and Bank Offers - Stackumbrella.com",
+        "body": "Flipkart Big Billion Days Sale: The start date of Flipkart Big Billion Sale 2024 sale has been announced. This is the biggest sale of the entire year and it is starting from 27th September. Flipkart Plus members will be able to make purchases from September 26. The last date of this sale of Flipkart has not been announced, it is expected that this sale will run till the end of October.\n\nDo you also want to buy a new smartphone for yourself? So, Flipkart Big Billion Sale is about to start for you guys. In the Flipkart Big Billion Sale, you will get great deals on top smartphones like iPhone 15 Pro, iPhone 15 Pro Max. In this sale, apart from smartphones, attractive offers and discounts will also be available on TV, laptop, tablet, wearables, home appliances, kitchen Appliances.Let us know how much money you will be able to save on which model?\n\nThe Flipkart big Billion Days sale 2024 is booked to start on September 27 for all customers. In any case, Flipkart plus members will have early access a day earlier, on September 26. The E-commerce organization has collaborated with HDFC Bank to offer bank bargains. prospective purchasers can take advantage of a 10 percent instant discount on debit/credit and easy EMI transactions.\n\nThe Flipkart mobile app is right now showcasing discounted prices for a few smartphones. For example, the Google Pixel 8, which is commonly valued at price. 75,999, will be available for under price. 40,000. Essentially, the Samsung Galaxy S23, usually valued at price. 89,999, will also be available for under Price. 40,000. In any case, the final prices have not been disclosed yet.\n\nAlso, the base model of the Samsung Galaxy S23 FE, which for the most part sells for RS. 79,999, is supposed to be available for under price. 30,000. The performance oriented Poco X6 Ace 5G is additionally expected to be price at under RS. 20,000.\n\nBig Billion Days sale 2024 is going to start on E-commerce website Flipkart. If you are planning to buy a new smart TV for your home, then you are going to get a huge discount in the sale.in the sale offer, you will be able to buy smart TVs ranging from 32 inches to 43 inches and 55 inches with heavy discounts .in such a situation, if you want\n\nto enjoy home theater like experience in your home, then do not miss to take advantage of the sale offers.\n\nFlipkart Big Billion Sale on 5G phones will start from RS 8,999.\n\nThe Flipkart big Billion Days sale 2024 is booked to start on September 27 for all customers. In any case, Flipkart plus members will have early access a day earlier, on September 26. The E-commerce organization has collaborated with HDFC Bank to offer bank bargains. prospective purchasers can take advantage of a 10 percent instant discount on debit/credit and easy EMI transactions.\n\nAfter the launch of iPhone 16 Series, Apple has stopped the sale of iPhone 15 Pro and iPhone 15 Pro Max, but these models can still be purchased on the e-commerce platform Flipkart. Both the models come with flagship features, if you want to buy any of these new models, then both these models will be sold at a very low price in the Flipkart Big Billion Days Sale.\n\niPhone Deals have been revealed which shows that you will be able to buy iPhone 15 Pro for less than RS 1 lakh, while you will be able to buy the Pro Max variant for less than RS 1 lakh 10 thousand. Let us tell you how you will be able to take advantage of these deals?\n\niPhone 15 Pro 128 GB variant is available for RS 1,09,999 before the sale, but during the sale this phone will be sold for RS 99,999 after a discount of RS 10,000.\n\nApart from this, you will be able to avail bank card discount of RS 5,000 and exchange discount of RS 5,000. After availing all the offers, you will get this phone for RS 89,999.\n\nThe 256 GB storage variant of iPhone 15 Pro Max is being sold for RS 1 lakh 34 thousand 900 before the sale. But in the Flipkart Sale you will get this flagship phone for RS 1 lakh 19 thousand 999.\n\nApart from product discount of RS 14,901, you will be able to save RS 5,000 through bank card discount and RS 5,000 through exchange discount. After availing the benefits of all the offers, you will be able to buy this phone for RS 1 lakh 09 thousand 999.\n\nBig Billion Days sale 2024 is going to start on E-commerce website Flipkart. If you are planning to buy a new smart TV for your home, then you are going to get a huge discount in the sale.in the sale offer, you will be able to buy smart TVs ranging from 32 inches to 43 inches and 55 inches with heavy discounts .in such a situation, if you want to enjoy home theater like experience in your home, then do not miss to take advantage of the sale offers.",
+        "source": {
+          "uri": "stackumbrella.com",
+          "dataType": "news",
+          "title": "Stackumbrella.com"
+        },
+        "authors": [
+        ],
+        "links": [
+          "https://www.stackumbrella.com/infinix-hot-50-5g-will-be-launched-on-sept-5/",
+          "https://stackumbrella.in/lg-led-tv-new-series-launched-in-india/"
+        ],
+        "image": "https://www.stackumbrella.com/wp-content/uploads/2024/09/Untitled-design_11zon.jpg",
+        "eventUri": null,
+        "sentiment": 0.1607843137254903,
+        "wgt": 465039404,
+        "relevance": 4
+      },
+      {
+        "uri": "8337846321",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-09-26",
+        "time": "09:26:25",
+        "dateTime": "2024-09-26T09:26:25Z",
+        "dateTimePub": "2024-09-26T09:26:12Z",
+        "dataType": "news",
+        "sim": 0.4980392158031464,
+        "url": "https://www.fool.com/investing/2024/09/26/3-stocks-that-turned-1000-into-1-million-or-more/",
+        "title": "3 Stocks That Turned $1,000 Into $1 Million (or More) | The Motley Fool",
+        "body": "Apple, Amazon, and Berkshire Hathaway minted a lot of millionaires.\n\nFor a stock to turn a $1,000 investment into $1 million, it would need to rally 99,900%. The S&P 500 rose 5,240% over the past 50 years -- so it might seem impossible to find that rare growth stock that could deliver big millionaire-making gains.\n\nYet three of the most valuable companies today -- Apple (AAPL -0.44%), Amazon (AMZN -0.74%), and Berkshire Hathaway (BRK.A -0.59%) (BRK.B -0.48%) -- actually generated those jaw-dropping gains over the past few decades. Let's see how they turned their most patient investors into millionaires and if they can keep growing for the foreseeable future.\n\nApple went public at a split-adjusted price of $0.10 per share on Dec. 12, 1980. A $1,000 investment in its initial public offering (IPO) would be worth $2.28 million today. Apple is now the world's most valuable publicly traded company with a market cap of $3.47 trillion.\n\nThe company was once an underdog maker of personal computers in a market dominated by Windows-powered PCs. Its business stagnated in the late 1980s and early 1990s before its co-founder Steve Jobs returned as its CEO in 1997. Under Jobs, Apple reignited its growth by launching the iMac, iPod, iPhone, and iPad. It attracted a new generation of consumers with its sleek new devices and premium price tags and locked them into its walled garden of services.\n\nMany investors wondered if Apple could keep growing after Jobs' death in 2011, but his successor Tim Cook maintained the company's momentum by upgrading its core devices, launching new products like the Apple Watch and AirPods, and expanding its services ecosystem. Apple also returned a lot of its cash to its investors through its buybacks and dividends.\n\nFrom fiscal 1997 to fiscal 2023 (which ended last September), Apple's revenue grew at a compound annual growth rate (CAGR) of 17%. Its business is maturing but could keep growing as it rolls out new devices and artificial intelligence (AI) services.\n\nAmazon went public at a split-adjusted price of $0.075 a share on May 15, 1997. A $1,000 investment in its IPO would have grown to $2.55 million. Amazon is now worth $2.01 trillion, making it the fifth most valuable public company in the world.\n\nAmazon initially sold books through its online store but subsequently expanded its marketplace to sell other types of products. It also opened up its marketplace to third-party sellers. In 2002, it launched Amazon Web Services (AWS), which grew into the world's largest cloud infrastructure platform during the following two decades.\n\nMany skeptics thought Amazon's capital-intensive business model was unsustainable, but economies of scale eventually kicked in across its marketplace and diluted its fulfillment expenses. It also subsidized the expansion of its lower-margin retail business with AWS' higher-margin revenue and locked its shoppers into its sticky Prime subscriptions.\n\nFrom 1997 to 2023, Amazon's revenue rose at a stunning CAGR of 37%. Its growth has slowed down over the past decade, but the company remains a balanced way to profit from the secular expansion of the e-commerce and cloud infrastructure markets. The feverish demand for new AI applications should also generate strong tailwinds for AWS over the next few years.\n\nBerkshire Hathaway was founded in 1839, but its modern history begins with Warren Buffett's full takeover of the company in 1965. After 15 years of expanding and restructuring its business, Berkshire Hathaway listed its Class A shares at an IPO price of $290 on March 16, 1980.\n\nA $1,000 investment in those shares would be worth $2.36 million today. Berkshire now has market cap of $980 billion, making it the world's eighth most valuable public company.\n\nBerkshire Hathaway operates two main growth engines. First, it directly owns a long list of insurance, railroad, utility, and consumer staples businesses. These subsidiaries are mostly recession-resistant businesses that generate lots of cash.\n\nSecond, Berkshire pours a lot of that cash into its closely watched investment portfolio, which consists of more than 50 stocks and exchange-traded funds (ETFs). Its top holdings -- which were chosen by Buffett himself -- include Apple, American Express, Bank of America, and Coca-Cola.\n\nBerkshire's well-diversified business was built to withstand recessions, and it's consistently outperformed the S&P 500 ever since its IPO. From 1980 to 2023, its operating earnings (which exclude its investment gains and losses) grew at a CAGR of 17%.\n\nSome investors might be wondering if Berkshire can maintain its momentum after Buffett hands the reins over to his successor Greg Abel. I believe its evergreen business can keep beating the market for decades to come.",
+        "source": {
+          "uri": "fool.com",
+          "dataType": "news",
+          "title": "The Motley Fool"
+        },
+        "authors": [
+          {
+            "uri": "leo_sun@fool.com",
+            "name": "Leo Sun",
+            "type": "author",
+            "isAgency": false
+          }
+        ],
+        "links": [
+          "https://www.fool.com/terms/i/ipo/",
+          "https://www.fool.com/terms/c/ceo/",
+          "https://www.fool.com/terms/c/compound-annual-growth-rate/",
+          "https://www.fool.com/investing/2024/06/16/apple-stock-buy-sell-or-hold/",
+          "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+          "https://www.fool.com/investing/stock-market/market-sectors/information-technology/cloud-stocks/",
+          "https://www.fool.com/investing/2024/05/31/why-im-not-selling-my-amazon-stock-even-after-a-50/",
+          "https://www.fool.com/terms/e/etfs/",
+          "https://www.fool.com/investing/2024/08/14/should-you-buy-berkshire-hathaway-stock/"
+        ],
+        "image": "https://g.foolcdn.com/editorial/images/791490/man-cash-king.jpg",
+        "eventUri": "eng-9930638",
+        "sentiment": 0.2784313725490195,
+        "wgt": 465038785,
+        "relevance": 4
+      },
+      {
+        "uri": "2024-09-496888568",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-09-26",
+        "time": "09:20:55",
+        "dateTime": "2024-09-26T09:20:55Z",
+        "dateTimePub": "2024-09-26T09:20:00Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://swarthmorephoenix.com/2024/09/26/associate-professor-of-economics-marc-remer-on-the-biden-antitrust-legacy/",
+        "title": "Associate Professor of Economics Marc Remer on the Biden Antitrust Legacy",
+        "body": "This past Sunday, Lina Khan, the Biden-appointed chair of the Federal Trade Commission (FTC), was featured on \"60 Minutes.\" On the show, she discussed her approach to leading the FTC, which enforces antitrust law and consumer protection. Her approach, along with that of Jonathan Kanter, Biden's United States Assistant Attorney General for the Antitrust Division, has made waves to observers of corporate regulation for marking a shift in policy toward stricter enforcement of corporate merger law and consumer protection efforts.\n\nTo explore these changes, The Phoenix spoke with antitrust expert and Associate Professor of Economics Marc Remer.\n\nAside from research on the calls basketball referees make and racial bias in the hiring of NBA head coaches, Remer has spent most of his career studying antitrust economics. After writing his dissertation on the pricing strategies of gas stations and whether they were colluding with each other, Remer took a job with the Antitrust Division of the Department of Justice (the division now led by Mr. Kanter) to study the impact of corporate mergers determining which should be blocked because of negative impacts on consumers. After a family relocation, Remer then became associate professor of economics at Swarthmore, where he now teaches microeconomics and antitrust, which he continues to research.\n\nKhan and Kanter have overseen and directed a much stronger level of federal government regulation of corporate mergers and potentially anti-competitive practices. At the FTC, Khan has brought forward and led high-profile legal battles against major big tech companies, including Amazon, Facebook (Meta), Nvidia, and others, in addition to taking on mergers of grocery store companies that the agency thinks will raise prices, corporate non-compete clauses identified as exploitative, and pharmaceutical middle-men that Khan argues are responsible for raising prices. Over at the Department of Justice's Antitrust Division (where Remer worked), Kanter has similarly sued Google, Apple, TicketMaster, and others, in addition to challenging mergers thought to have negative impacts on consumers in the airline and other industries. Both associated with the \"New Brandeis\" movement that argues consolidated private power is dangerous for society, Khan and Kanter have worked together to change the federal government's merger guidelines and more.\n\nRemer is glad to see this new approach from the Biden administration: \"Under the Bush administration, there was very little or very loose antitrust enforcement. They tried to block a small handful of mergers, but the most prominent one was Oracle PeopleSoft, and they lost that one.\" Remer thinks this created a hesitancy to bring antitrust cases for the rest of Bush's tenure as president. Even in the Obama administration, while \"they became more active and started bringing some more cases, which I think was good, we still didn't see any prominent conduct cases or abusive monopoly power cases,\" he said.\n\nRemer thinks it's possible that this could have been because \"Amazon and Google were growing, but they weren't quite the behemoths that they are today.\" On the Trump administration, Remer said \"I don't know exactly what was going on during the Trump administration, but certainly not strict antitrust enforcement.\"\n\nOn the Biden administration's antitrust enforcement, Remer observes that it's \"probably more active than it was even during the Obama administration, and we're seeing all these big anti-monopolization cases, and that's what I really think is interesting to see.\" He continued, \"I think there's a lot of conduct by these big tech companies, but also in other industries, that is bad for consumers. So, at least from my view, it's nice to see a lot more activity there.\"\n\nEven though some critics of Khan and Kanter question their efficacy because of some losses in high-profile court cases, Remer sees this as misplaced. \"That's kind of what you want,\" he said. \"If you think that there's been under-enforcement of antitrust laws, the only way to find out how much enforcement we should have is by taking risks. For example, the FTC [under Khan] lost its case blocking Microsoft/Activision merger. Well, if that's a case that's sort of on the margin, the only way to sort of push the case law and see how far you can take it is by bringing a case like that to court. If you win 100% of your cases, you're probably not bringing enough of them.\"\n\nRemer thinks the shift in antitrust enforcement from the federal government will be long lasting. \"The antitrust laws, for the most part, have not been changed since the Sherman Act, other than some minor tweaks. So what we now believe about what types of behaviors and what types of mergers are deemed illegal has really evolved through case law just by virtue of bringing more cases. Just by bringing these anti-monopolization cases or abusive monopoly power cases, they're going to have a big, lasting impact. One monumental case can have an effect for decades.\"\n\nAdditionally, Remer sees importance in another area of the federal government's antitrust and consumer protection work: the guidelines they publish for mergers. These guidelines, Remer explained, serve to articulate and tell businesses what the antitrust division and FTC will look for when evaluating mergers or monopolies. \"The previous version of the DOJ's merger guidelines was released in 2010, and before that, it was 1992, so it's pretty infrequently they get updated. And during the Biden administration, one of the top priorities was to update the merger guidelines.\" He continued, \"The new guidelines were released in December 2023 and there's a lot of stuff in there that wasn't really mentioned or had got very little weight in the previous merger guidelines.\" Among these new considerations that Remer discussed were the number of mergers in an industry, whether venture capital was buying up a bunch of smaller companies in the sector, effects of mergers on innovation, and the impacts mergers have on the labor market.\n\n\"So by virtue of just putting out these new guidelines, I think we're going to see a big shift in the types and the number of cases that are brought by the antitrust agencies, and that's definitely going to have a lasting impact.\"\n\nAdditionally, when thinking about which parts of the Biden Antitrust legacy will be most impactful, Remer reflected on the importance of Khan and Kanter starting to challenge vertical mergers rather than just horizontal mergers. Vertical mergers are when companies buy their suppliers, and these used to be widely accepted because of the potential for lowering the final cost to consumers. While he's unsure how the cases have ended up in court, Remer talked about how the Biden Administration has taken a harder stance on vertical mergers after putting more consideration into the effects of mergers on labor markets, among other things.\n\n\"Up until the Biden administration, what was usually analyzed in antitrust cases was the impact on the final consumer price,\" Remer said, and explained how that would allow businesses to cite potential lower markups and lower final prices to justify their mergers. Part of this, he thinks, is because changes in final price is an easier thing to measure, relative to other factors.\n\n\"But the problem is, there's all these other effects of competition. For example, innovation, labor, quality, all that stuff gets ignored when you only focus on final price effect. But what the Biden administration has done is, say 'hey, just because we can't measure this thing precisely doesn't mean there's not going to be harm from a merger or from monopoly conduct, and we're going to find other ways to tell our story of harm here.' And there's been a much more willingness to sort of not go in there with hard numbers.\"\n\nRemer clarified that there's nothing inherently illegal about being a monopoly.\n\n\"Our antitrust laws do not prevent you from becoming a monopolist if you compete on the merits. So that's not why Amazon, Google, Apple, etc, are getting these lawsuits. What is true, though, is that if a company has substantial market power, there's lots of things that now it's not allowed to do that are considered an abuse of monopoly power, and a lot of these things you cannot do have kind of been determined by the case law that's evolved over the past 100 years.\"\n\n\"Once we've proven that they have a lot of market power, [the enforcers] ask, 'are the things that they are doing harmful to the competition and harmful to consumers or competition?'\"\n\nReferencing the DOJ's antitrust case against Google for abusing their market power to crowd out potential search bar competition, Remer said, \"a lot of it revolved around the payments that Google was making to Apple, which resulted in billions of dollars sent to Apple annually in return for making Google the default search browser on the iPhone. And Google argues that they have all this market power because they're better than everyone else, and that's why people like them. But, the simple counterargument to that is, well, 'if that's true, why do you need to pay Apple millions of dollars to be the default search engine?'\"\n\nWhile exploring the example to shed light on how these cases work, Remer discussed how the DOJ called a behavioral economist to testify about the economic advantage of being the default search engine. The DOJ found lots of internal Google documents that showed they knew the economic advantage of being the default search engine. \"So, again, it's not the status itself of being a monopolist that's anti-competitive. But when you combine that market power with actions to stop competition, it's like, well, who has a chance?\"\n\nKhan and Kanter were both appointed by Biden, who will no longer be in office in four months. On the question of antitrust changes of a new administration, Remer said \"What's not going to change is the staff that works there, and they're the ones that make those places run. But what the staff can't do is to make decisions about what cases to bring and not bring -- they can only make recommendations.\"\n\n\"My hope is that the current cases that are already filed will continue to proceed. If they're already in court they'll continue to proceed. What could happen is that the new administration decides to settle the cases out of court. And, I don't think it takes a genius to suspect that Harris's administration would be more in line with Biden's antitrust approach than Trump's would be,\" Remer said.\n\nRemer is continuing to research market power and antitrust. With Swarthmore students as research assistants, Remer is currently working on a paper that goes back to the basics of antitrust philosophy. \"One of the original reasons for antitrust was just having too much political power, and that these companies are just too powerful. And since the 1960s-1970s, this concern was completely lost as a concern of antitrust policy. I'm not entirely sure why, but it's partly that it's hard to measure how powerful a company is.\"\n\n\"Something we're looking at is the public information of how much all these companies lobby. We're collecting data on corporate concentration, so what we're looking at is when we see the amount of concentration, basically the size of these companies, does that impact how much they lobby, which government entities they lobby, and how much the industry itself lobbies.\"\n\nThis work, and an additional paper on airline merger pricing will take up Professor Remer's time for the foreseeable future.",
+        "source": {
+          "uri": "swarthmorephoenix.com",
+          "dataType": "news",
+          "title": "The Phoenix"
+        },
+        "authors": [
+        ],
+        "links": [
+          "https://www.cbsnews.com/video/lina-khan-ftc-60-minutes-video-2024-09-22/",
+          "https://www.theguardian.com/technology/2023/sep/27/ftc-head-lina-khans-fight-against-amazon-has-been-years-in-the-making",
+          "https://www.cbsnews.com/news/ftc-lina-khan-grocery-prices-60-minutes/",
+          "https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-announces-rule-banning-noncompetes",
+          "https://www.nytimes.com/2024/09/20/health/ftc-drug-price-inflation-insulin.html",
+          "https://www.nytimes.com/2024/03/22/technology/jonathan-kanter-apple-antitrust.html"
+        ],
+        "image": "https://swarthmorephoenix.com/wp-content/uploads/2024/09/180326_remer_g.jpg.webp",
+        "eventUri": null,
+        "sentiment": 0.003921568627450966,
+        "wgt": 465038455,
+        "relevance": 2
+      },
+      {
+        "uri": "2024-09-496885784",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-09-26",
+        "time": "09:18:37",
+        "dateTime": "2024-09-26T09:18:37Z",
+        "dateTimePub": "2024-09-26T08:23:37Z",
+        "dataType": "news",
+        "sim": 0.4705882370471954,
+        "url": "https://www.newzimbabwe.com/tips-to-recovering-lost-contacts-and-messages-on-iphone/",
+        "title": "Tips to Recovering Lost Contacts and Messages on iPhone - NewZimbabwe.com",
+        "body": "Ever wondered what if important contacts or text messages from your iPhone get deleted? Losing important contacts or messages can be a distressful experience. There are various iPhone data recovery methods, ranging from using Apple's built-in backup systems like iCloud and iTunes to utilizing third-party software that you can use to restore lost contacts and messages. In this comprehensive guide, we will explore multiple tips and methods for recovering lost contacts and messages on your iPhone. So let's get started!\n\nWhy do Contacts and Messages Get Deleted on iPhones?\n\nBefore you use any iPhone data recovery software or manual methods to restore lost contacts and messages, it is important to find the exact cause of the loss. Some main reasons are:\n\nHow do I Recover Deleted Contacts/Messages on iPhone?\n\nHere are some commonly used iPhone data recovery methods and tips to recover lost contacts iPhone without fail. Just go with these methods one-by-one to get your deleted information back:\n\nMethod 01: Use iCloud Backups to Recover Deleted Contacts and Messages\n\nOne of the easiest and most straightforward iPhone data recovery methods to restore lost contacts and messages on your iPhone is via iCloud backup. If you have synced iCloud on your iPhone, it automatically backs up all its data, including contacts and messages. To recover iPhone's lost contact or messages using iCloud backup, you need to:\n\nMethod 02: Recover Lost Contacts or Messages Using iTunes Backup\n\nAnother backup alternative to recover lost contacts or messages on your iPhone is via iTunes backup. If you've connected your iPhone to a Mac or PC, you may have backed up your device using iTunes. Recovering lost data using iTunes backup involves restoring your iPhone to a previous state. To recover deleted data using iTunes backup, you need to:\n\nMethod 03: Recover Contacts via iCloud Contacts\n\nIf you have enabled iCloud Contacts on your iPhone, it will automatically sync your contacts with your iCloud account. This means you can restore lost contacts directly from iCloud without performing a complete restoration. All you have to do is:\n\nMethod 04: Use Third-Party iPhone Data Recovery Software\n\nIf the above tips for recovering lost contacts and messages on iPhone using backups get failed, third-party data recovery tools may help you. Stellar Data Recovery for iPhone is an all-in-one iPhone data recovery software that supports recovery of data deleted due to any reason, including accidental deletion, formatting, etc. It supports the recovery of lost data of multiple types, including photos, videos, documents, emails, contacts, texts, and many more.\n\nKey Features of Stellar Data Recovery for iPhone:\n\nHere are quick steps to recover lost contacts and messages on iPhone using Stellar Data Recovery for iPhone software:\n\nStep 1: Download and install the Stellar Data Recovery for iPhone software on your Windows or Mac device. Launch the software and from the homepage, choose Recover from iPhone and select the type of data you need to restore. Click Next to continue.\n\nLosing contacts and messages on your iPhone can be a frustrating experience, but there are multiple methods to recover your data. Whether you're using Apple's built-in backup services like iCloud and iTunes, or resorting to third-party iPhone data recovery software, you have various options at your disposal. Always ensure that your iPhone is regularly backed up to avoid data loss in the future.",
+        "source": {
+          "uri": "newzimbabwe.com",
+          "dataType": "news",
+          "title": "NewZimbabwe.com"
+        },
+        "authors": [
+          {
+            "uri": "paidashe_mandivengerei@newzimbabwe.com",
+            "name": "Paidashe Mandivengerei",
+            "type": "author",
+            "isAgency": false
+          }
+        ],
+        "links": [
+          "https://www.stellarinfo.com/media-tools/iphone-data-recovery.php",
+          "https://www.stellarinfo.com/blog/restore-missing-deleted-iphone-contacts/"
+        ],
+        "image": "https://www.newzimbabwe.com/wp-content/uploads/2024/09/Screenshot-2024-09-26-at-10.16.44.png",
+        "eventUri": "eng-9928415",
+        "sentiment": -0.05098039215686279,
+        "wgt": 465038317,
+        "relevance": 10
+      },
+      {
+        "uri": "8337829793",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-09-26",
+        "time": "09:15:46",
+        "dateTime": "2024-09-26T09:15:46Z",
+        "dateTimePub": "2024-09-26T09:14:56Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://www.macobserver.com/ios/remove-person-photo-ios/",
+        "title": "How to Remove a Person from a Photo with Clean Up iOS 18.1",
+        "body": "Need to know how to remove a person from a photo in iOS? Have that perfect wedding photo that fills you with emotion, only to see your slovenly and drunk cousin making a fool of himself in the background? Well, I can't help you remove them from your life, but thanks to your iPhone, you can at least remove them from your photos. Let's take a look.\n\nFor those using iOS 18.1, the new Clean Up tool can help you remove items and people from an image. Thanks to Apple Intelligence, this feature is incredibly simple to use, though it won't always achieve perfect results. I'm going to show you how to use it, and I'm also going to give you some tips on how to get the most out of this new feature.\n\nLearn more about iOS 18.1 here.\n\nApple Intelligence just makes things easy. While removing people from photos is simple, not every image is going to come out a hundred percent perfect. Personally, I would recommend using high-quality photos, ideally shot with your iPhone. Not every photo will come out perfect, but it's easier than learning Photoshop.",
+        "source": {
+          "uri": "macobserver.com",
+          "dataType": "news",
+          "title": "The Mac Observer"
+        },
+        "authors": [
+          {
+            "uri": "nick_decourville@macobserver.com",
+            "name": "Nick deCourville",
+            "type": "author",
+            "isAgency": false
+          }
+        ],
+        "links": [
+          "https://www.macobserver.com/ios/photos-clean-up-tool-remove-background-objects/",
+          "https://www.apple.com/apple-intelligence/?&cid=wwa-us-kwgo-features-slid--AIBrand-AppleIntellligence-us_ai_090924-&mtid=20925e1t39169&aosid=p238&mnid=s5AMC7Pup-dc_mtid_20925e1t39169_pcrid_712910651479_pgrid_168674639212_pntwk_g_pchan__pexid__ptid_kwd-833708590225_",
+          "https://www.macobserver.com/news/2nd-public-betas-of-ios-18-1-ipados-18-1-and-macos-sequoia-15-1-are-out/",
+          "https://www.macobserver.com/tips/how-to/how-to-create-live-stickers-using-your-own-photos-in-ios-17/"
+        ],
+        "image": "https://www.macobserver.com/wp-content/uploads/2024/09/Remove-Person-Photo-iOS-September-2024-Featured.png",
+        "eventUri": null,
+        "sentiment": 0.2862745098039217,
+        "wgt": 465038146,
+        "relevance": 2
+      },
+      {
+        "uri": "8337828203",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-09-26",
+        "time": "09:13:57",
+        "dateTime": "2024-09-26T09:13:57Z",
+        "dateTimePub": "2024-09-26T09:13:45Z",
+        "dataType": "news",
+        "sim": 0.6392157077789307,
+        "url": "https://www.econotimes.com/Morgan-Stanley-iPhone-16-Lead-Times-Shorter-Than-Previous-Models-Supply-Improves-1688596",
+        "title": "Morgan Stanley: iPhone 16 Lead Times Shorter Than Previous Models, Supply Improves - EconoTimes",
+        "body": "Apple Inc. (NASDAQ: AAPL) is seeing shorter lead times for its latest iPhone 16 models compared to its predecessors, according to a report released Tuesday by Morgan Stanley. The note suggests improved supply for the tech giant, though the investment bank remains cautious about predicting the overall sales performance based on current data.\n\nShares of Apple fell nearly 1% in premarket trading on Wednesday following the report.\n\nAccording to Morgan Stanley, the average lead time for the iPhone 16 in the U.S. is 15.2 days, as of September 24 -- 11 days after pre-orders began, as stated also in this article from CNBC. This marks a significant decrease from the 25.7-day lead time for the iPhone 15 at the same point last year and 18 days for the iPhone 14.\n\nShorter Lead Times Also Evident Internationally\n\nThe trend of shorter wait times extends beyond U.S. borders. Internationally, the average lead time for the iPhone 16 stands at 16.3 days, down from 28.5 days for the iPhone 15 during the same timeframe.\n\nWhile Morgan Stanley analysts attribute these shorter lead times to an improved supply chain, they urge caution in interpreting the data. \"While supply is improved, and we hear anecdotes of positive iPhone 16 demand, we still interpret these data points more cautiously,\" the note reads.\n\nNotably, lead times for the iPhone 16 Pro and Pro Max models are significantly shorter than in previous cycles. Currently, the iPhone 16 Pro Max has a lead time of 25.5 days in the U.S., 18 days less than the iPhone 15 Pro Max. Similarly, the iPhone 16 Pro's lead time has shortened to 18.5 days, down from 21.5 days just last Friday.\n\nCaution Over Predictive Sales Data\n\nDespite the shortened lead times, Morgan Stanley warns that these early metrics lack strong predictive power for the entire sales cycle. The trajectory closely resembles past iPhone cycles, with lead times peaking around seven days after pre-orders began.\n\nAccording to a reliable site, the analysts suggest a greater than 50% chance of potential iPhone production cuts in the coming weeks, a move that could impact Apple's revenue in the December quarter. They anticipate that any production revisions could materialize as early as October, potentially affecting fourth-quarter revenue forecasts.",
+        "source": {
+          "uri": "econotimes.com",
+          "dataType": "news",
+          "title": "EconoTimes"
+        },
+        "authors": [
+        ],
+        "links": [
+          "https://www.cnbc.com/2024/09/16/apple-shares-slide-on-lower-than-expected-iphone-16-demand-analysts.html",
+          "https://9to5mac.com/2024/09/15/lower-iphone-16-pro-demand/"
+        ],
+        "image": "https://f1.econotimes.com/2024/09/0eaurdxxob_th_1024x0.jpeg",
+        "eventUri": "eng-9928415",
+        "sentiment": 0.223529411764706,
+        "wgt": 465038037,
+        "relevance": 5
+      },
+      {
+        "uri": "8337821697",
+        "lang": "eng",
+        "isDuplicate": true,
+        "date": "2024-09-26",
+        "time": "09:09:52",
+        "dateTime": "2024-09-26T09:09:52Z",
+        "dateTimePub": "2024-09-26T09:09:35Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://talksport.com/ca/casinos-ca/2083527/best-mobile-casinos-canada/",
+        "title": "Best mobile casinos in Canada 2024",
+        "body": "Mobile casinos have become a game-changer for players looking to enjoy their favorite casino games on the go. With smartphones and tablets making it easier than ever to access hundreds of games, the best mobile casinos in Canada can and do offer a seamless gambling experience.\n\nHere, I will showcase the top mobile casinos in 2024, focusing on mobile usability, game variety, and standout features. Whether you're into slots, blackjack, or poker, finding the best mobile casinos ensures you can gamble from anywhere, anytime, so hopefully I will be able to help.\n\nFor me, Duelz Casino takes the top spot for online casinos in Canada. The site is best as of September 2024 due to its intuitive mobile platform, massive game selection, and engaging features.\n\nDuelz's user-friendly interface makes it easy to navigate, and the speed of its mobile app means you're going to always get a smooth gaming experience. On top of that you can enjoy quick deposits and withdrawals, making Duelz Casino an ideal pick for anyone wanting to play casino games online and they're based in Canada.\n\nI'll be reviewing each mobile casino based on factors such as game variety, ease of navigation, mobile app availability, and banking options (withdrawals and deposits). The focus for me is on ensuring Canadian players can enjoy the best experience on mobile platforms.\n\nDuelz Casino is a top choice for mobile gaming players, particularly slot lovers. The casino offers over 1,000 slot games, many of which are optimized for mobile play.\n\nDuelz stands out with its user-friendly mobile platform, which is fast, easy to navigate, and requires no app download (though a web app is available via the operator's site but not on Apple Store or Google Play).\n\nThe bright, colorful interface translates well onto mobile devices, making it an enjoyable gaming experience. Whether playing directly in your mobile browser or via the web app, Duelz provides a really seamless experience with quick loading times and smooth navigation.\n\nCasumo is known for its award-winning mobile experience, which offers seamless navigation on both smartphones and tablets. Whether you're playing through its mobile-optimized site or via the dedicated iOS app, Casumo ensures smooth gameplay across 800+ mobile games.\n\nThe interface is modern and easy to use, allowing you to access slots, table games, and live dealer options effortlessly. With a streamlined design and really fast loading times, Casumo is ideal for players looking for a top-tier mobile casino experience, especially on iPhone or other iOS devices.\n\nbet365 is widely recognized for its robust mobile betting experience. The app, available for both Android and iOS, provides easy navigation and access to a broad range of games and sports markets. Players can enjoy casino games, betting, early payouts, and live streaming directly from their mobile devices.\n\nbet365's intuitive design and comprehensive sports coverage make it a favorite for mobile bettors looking for convenience and performance on the go.\n\nHeySpin Casino offers an extensive mobile gaming experience with over 1,100 games, including a standout selection of scratchcards and live dealer table games. Its mobile platform is optimized for smooth performance on smartphones, featuring fast-loading games and an intuitive layout.\n\nPlayers can enjoy a wide range of slots and live casino options, making HeySpin a versatile choice for mobile gamers seeking variety and easy navigation.\n\nKing Casino offers a smooth mobile experience with over 1,000 high-quality games from top providers like Microgaming, Play'n GO, and NetEnt. The mobile-optimized site delivers fast loading times and easy navigation, with no need for a dedicated app for players in Canada.\n\nKing Casino also stands out for its rapid withdrawal speeds, making it a top pick for players who want quick access to their winnings. The intuitive mobile interface ensures you can enjoy a seamless gaming experience on the go.\n\nLuckster Casino delivers a really solid mobile experience for online casino players in Canada, with 900+ games, including slots, table games, and live dealer options. While it lacks a dedicated mobile app, the browser-based site is really well-optimized for mobile devices, ensuring smooth navigation and fast load times.\n\nLuckster is a great choice for high rollers due to its high-limit tables and a rewarding loyalty program that keeps players engaged and gives them a reason to stay playing with the operator long-term.\n\nMr Vegas Casino offers one of the largest collections of mobile-friendly games for players in Canada, with over 5,000 titles available, including slots, table games, and live dealer options.\n\nThe mobile version of the site is optimized for a smooth experience, and players can access it through any browser on both Android and iOS devices. With seamless navigation, fast load times, and advanced filtering options, Mr Vegas is perfect for those who enjoy a wide range of games at their fingertips.\n\nHot Streak Slots is a mobile-friendly casino that stands out for its wide selection of progressive jackpot slots. With over 1,500 games and a mobile-optimized website, you can enjoy an immersive experience directly from your smartphone or tablet.\n\nThe site has a smooth mobile interface, making it easy to explore its diverse game library. Hot Streak Slots also ensures fast withdrawals and secure payments, which are essential for mobile players who want to have a quick and non-frustrating experience.\n\nVegasLand Casino is known for its wide selection of games, offering over 1,000 titles, including slots, table games, and live casino options. With a mobile-optimized platform, you can easily navigate the site on smartphones/tablets and enjoy seamless gaming without a dedicated app. With licenses across Malta and the UK, you know that you're getting a safe and secure way to play.\n\nThe user-friendly interface and responsive design make it perfect for those who want a hassle-free mobile gambling experience. Whether you prefer slots or live dealer games, VegasLand provides a comprehensive range of options for mobile users.\n\nPlayGrand Casino offers a premium VIP experience and stands out for its excellent rewards for loyal players. The mobile platform is smooth and easy to navigate, and it provides access to over 1,300 games, including slots, table games, and live dealer options.\n\nWhile there's no dedicated mobile app as of writing, the site works flawlessly on mobile browsers, offering a quality gaming experience on the go. The PlayGrand VIP program gives players access to exclusive bonuses and cashback rewards, making it a great option for frequent mobile gamers.\n\nBelow, you'll find details on the best mobile casinos in Canada, along with their top features and app availability.\n\nHere are a few reasons that playing on a mobile casino casino could be the right option for you:\n\nStarburst is one of the most popular mobile slots, known for its vibrant graphics and easy-to-understand gameplay. Its smooth, fast-paced action makes it perfect for mobile play, and the Wild feature adds excitement to proceedings. With simple controls and a high RTP, it's a great pick for beginners and seasoned players alike.\n\nBlackjack is ideal for mobile gaming due to its quick rounds and strategic gameplay. Mobile versions are optimized for touchscreens, making it easy to place bets and make decisions. The game's simplicity combined with strategic depth makes it an excellent choice for on-the-go play.\n\nMobile poker, especially Texas Hold'em, offers a competitive gaming experience with real-time multiplayer action. Many mobile apps feature tournaments and cash games, allowing you to compete from anywhere. The intuitive controls and real-time chat enhance the immersive experience, making it for me one of the top choices for mobile gaming.\n\nRoulette works seamlessly on mobile, with touch controls that allow you to quickly place bets and spin the wheel. The visual clarity and smooth animations make it an engaging game on smartphones. European and American roulette variants are available, with mobile games often offering customizable settings for bet limits.\n\nLive Baccarat brings the casino floor to your screen, offering real-time gameplay with a live dealer (usually streamed in HD). It's one of the best games to experience on mobile due to its interactive nature, and it runs smoothly on most mobile and tablet devices. The high-quality graphics and live chat make it feel like a real casino experience, or at least as close as you're going to get behind a screen!\n\nDuelz Casino offers a 100% match bonus up to $100 for new mobile players, along with 10 free spins. This bonus is ideal for those who love mobile slots, as Duelz boasts over 1,000 slot games. With a low wagering requirement of 40x, players can quickly enjoy their winnings while experiencing Duelz's smooth mobile platform.\n\nMr Vegas Casino provides a generous 11 free spins with your first deposit, along with a 50% match bonus up to $200. This bonus is particularly enticing for mobile players who enjoy game variety, with over 5,000 games available. The free spins can be used on popular slot titles, and the mobile-optimized site ensures fast gameplay.\n\nbet365 offers a Bet $10, get $50 in bonus bets promotion for new mobile players. This is an exclusive offer for those who download and use the bet365 mobile app. It's perfect for mobile sports betting fans as well as casino players, providing extra funds to explore the site's live betting and sports markets.\n\nHot Streak Slots gives new players a 100% match bonus up to $100, plus 10 free spins. Mobile players will love this bonus, especially those into progressive jackpot slots. With over 1,500 mobile-optimized games and fast transactions, this bonus adds value and excitement for slot lovers on the go.\n\nPlayGrand Casino rewards its VIP players with exclusive bonuses, including cashback and higher match deposit offers. As part of their multi-level VIP program, mobile players can unlock free spins, no-deposit bonuses, and even personal account managers. This is a great perk for frequent mobile users looking for ongoing rewards.\n\nEnsure your device is protected by enabling security features like biometric authentication (fingerprint or face recognition) and setting a strong password. Keep your operating system and apps updated to avoid vulnerabilities. Using mobile-specific security software can also prevent malware from compromising your personal data while playing at mobile casinos.\n\nAlways play at mobile casinos that are licensed by reputable authorities like the Malta Gaming Authority or the UK Gambling Commission. These casinos follow strict security protocols and are regularly audited, ensuring a safe gambling environment. Check for SSL encryption on the casino's mobile site to protect your data during transactions.\n\nOpt for secure and reputable payment methods like Interac, PayPal, or credit cards for mobile deposits and withdrawals. These services offer additional security features, such as encryption and fraud protection. Avoid using public Wi-Fi when making transactions to prevent unauthorized access to your sensitive financial information.\n\nWhere available, enable two-factor authentication (2FA) for your casino account. This adds an extra layer of security by requiring a second form of verification (e.g., a code sent to your phone) when logging in or making transactions. It significantly reduces the risk of unauthorized access to your account.\n\nMost mobile casinos offer tools to set deposit, wagering, and time limits. Use these features to maintain control over your gambling habits and prevent overspending. Regularly check your gaming history to monitor your activity and stay aware of your spending. If necessary, consider taking breaks or using self-exclusion options.\n\nInterac is a popular payment method for Canadian players, offering fast and secure transactions directly from your bank account. It's easy to use on mobile devices, with low to no fees for deposits and withdrawals. Most casinos process Interac transactions instantly, though withdrawals may take 1-2 business days. The downside is that not all mobile casinos accept Interac for withdrawals.\n\nVisa and Mastercard are widely accepted at mobile casinos and offer secure, instant deposits. These credit and debit cards are convenient for players who prefer a familiar method. However, withdrawals can take 2-5 business days to process, and some casinos may charge fees for using cards, especially for withdrawals.\n\nPayPal is known for its security and ease of use, making it a great option for mobile players. Transactions are typically instant, with no fees for deposits or withdrawals. PayPal also offers buyer protection, adding an extra layer of security. The downside is that PayPal is not accepted at all Canadian mobile casinos.\n\nMuchBetter is a mobile-specific e-wallet that offers fast deposits and withdrawals with minimal fees. Its app is designed for mobile users, making it a seamless choice for casino payments. Transactions are processed instantly, and the app provides high-level security with device pairing and fingerprint login. The main drawback is that it's still gaining popularity, so not all casinos support it.\n\nSkrill is a popular e-wallet for Canadian players, known for fast transactions and mobile-friendly features. Deposits are usually instant, and withdrawals take around 24 hours, making it a speedy option for mobile users. However, Skrill may charge fees for certain transactions, and some mobile casinos exclude Skrill deposits from bonus eligibility.\n\nWhen reviewing and rating mobile casinos, I consider several key factors that ensure a smooth, secure, and enjoyable experience. From design and device compatibility to game variety and payment options, each aspect plays a crucial role in delivering the best mobile casino experience. Here's a breakdown of the criteria I use:\n\nA great mobile casino should have a clean, responsive design that works smoothly across different devices, whether iOS or Android. The interface must be easy to navigate with clear menus and quick access to games and features. I check for loading times and how well the platform adapts to various screen sizes for an optimal user experience as well.\n\nSecurity is a top priority, so I look for casinos with SSL encryption which protects user data and transactions. Casinos should be licensed by reputable authorities like the Malta Gaming Authority or UK Gambling Commission. Additional safety features such as two-factor authentication (2FA) and responsible gambling tools are also important when assessing mobile security.\n\nI assess whether the mobile casino offers a diverse selection of games, including slots, table games, and live dealer options. The availability of mobile-specific promotions, such as welcome bonuses or free spins, is also key. A wide variety of games from top providers, paired with generous promotions, ensures a richer gaming experience.\n\nReliable and secure payment methods are essential for mobile casinos. I look for a range of banking options, including Interac, PayPal, and credit cards, along with e-wallets like Skrill or MuchBetter. Fast deposit and withdrawal times, low fees, and mobile-optimized payment gateways are crucial to enhancing convenience for players, so I make sure that the operators I suggest have those in abundance as well.\n\nI evaluate whether the casino offers a dedicated mobile app or if the site functions seamlessly in a mobile browser. A well-designed app improves the gaming experience with one-tap access, better performance, and exclusive app-only features. If an app is not available, I ensure the mobile browser version still delivers high-quality gameplay.\n\nDuelz, Mr Vegas, and bet365 are among the best mobile casinos in Canada. These casinos stand out for their mobile usability, game variety, and excellent security. Each offers a smooth mobile experience, whether through a dedicated app or an optimized mobile site, ensuring players can enjoy top-quality games and promotions on the go, so I 100% recommend them!\n\nYes, mobile casinos are legal in Canada, but they must be licensed. Most mobile casinos that accept Canadian players are licensed by reputable authorities such as the Malta Gaming Authority or UK Gambling Commission. As long as the casino is licensed, it's safe and legal to play from your mobile device in Canada.\n\nbet365, Casumo, and Duelz offer some of the best mobile casino apps. These apps provide fast navigation, exclusive bonuses, and access to hundreds of games. They're designed for both iOS and Android, offering high security, smooth performance, and features like live betting and live dealer games.\n\nYes, you can win real money on casino apps. Mobile casino apps allow players to wager real money on a variety of games such as slots, poker, blackjack, and live dealer games. Once you win, you can withdraw your earnings through secure payment methods like Interac or PayPal.\n\nNo, but most games are available on mobile. Many online casinos optimize their most popular slots, table games, and live dealer games for mobile play. However, some older or niche games may only be available on desktop. Mobile game libraries usually include hundreds of titles.\n\nYes, many mobile casinos offer free demo versions of games. Players can try out slots and table games in demo mode without wagering real money. This is a great way to practice or explore new games before making a deposit. However, live dealer games are usually not available for free play, so bear that in mind.\n\nCommercial content notice: Taking one of the casino offers featured in this article may result in a payment to talkSPORT. 19+. T&Cs apply. Responsible Gambling Council\n\nA responsible gambler is someone who:\n\nFor help with a gambling problem, call the Centre for Addiction and Mental Health on 1 800 463-2338.",
+        "source": {
+          "uri": "talksport.com",
+          "dataType": "news",
+          "title": "talkSPORT"
+        },
+        "authors": [
+          {
+            "uri": "daniel_smyth@talksport.com",
+            "name": "Daniel Smyth",
+            "type": "author",
+            "isAgency": false
+          }
+        ],
+        "links": [
+          "https://talksport.com/goto-ca/duelzcasino",
+          "https://talksport.com/goto-ca/casumo",
+          "https://talksport.com/goto-ca/bet365",
+          "https://talksport.com/goto-ca/heyspin",
+          "https://talksport.com/goto-ca/king_casino",
+          "https://talksport.com/goto-ca/luckster_casino",
+          "https://talksport.com/goto-ca/mr_vegas_casino",
+          "https://talksport.com/goto-ca/hotstreak_slots",
+          "https://talksport.com/goto-ca/vegasland",
+          "https://talksport.com/goto-ca/playgrandcasino",
+          "https://twitter.com/DanSmythThePoet",
+          "https://www.responsiblegambling.org/",
+          "http://www.gamcare.org.uk/"
+        ],
+        "image": "https://talksport.com/wp-content/uploads/sites/5/2024/09/talksport-mobile-casinos-CA-non-op.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+        "eventUri": null,
+        "sentiment": 0.607843137254902,
+        "wgt": 465037792,
+        "relevance": 1
+      },
+      {
+        "uri": "8337818735",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-09-26",
+        "time": "09:07:53",
+        "dateTime": "2024-09-26T09:07:53Z",
+        "dateTimePub": "2024-09-26T09:07:38Z",
+        "dataType": "news",
+        "sim": 0.5372549295425415,
+        "url": "https://tech.hindustantimes.com/mobile/news/iphone-13-around-rs-40000-in-amazon-great-indian-festival-2024-how-to-get-the-deal-71727339132907.html",
+        "title": "iPhone 13 around  ₹40000 in Amazon Great Indian Festival 2024: How to get the deal",
+        "body": "Amazon Great Indian Festival 2024: The iPhone 13 can be acquired for around ₹40,000 by combining offers, but is it?\n\nAmazon Great Indian Festival Sale 2024 is now live, featuring one of the most sought-after deals: the iPhone 13 for around ₹40,000. However, as of today, September 26, this offer is available exclusively for Amazon Prime members. If you're interested in purchasing the device at this price, you'll need to subscribe to Amazon Prime or use a friend's account. It's worth noting that the listed price isn't exactly under ₹40,000, as Amazon raised the price shortly after the sale began. However, there are a few offers available that can help reduce the cost. Read on for the details.\n\nAlso Read: iPhone 16 least popular since iPhone 12, new survey reflects on minimal updates\n\nCurrently, the iPhone 13 is priced at ₹41,999 on Amazon India, which is still less than its typical selling price of around ₹50,000. To get closer to the ₹40,000 mark, you can use an SBI credit or debit card to lower the price to ₹40,749. Additionally, if you exchange a phone, the price drops even further. If you have an Amazon ICICI Pay credit card, you can receive a cashback of ₹2,100, bringing the effective price down to ₹39,899. However, the ICICI cashback isn't instant; it will be credited in your Amazon Pay account at the end of the card billing cycle.\n\nAlso Read: iOS 18 release brings this useful Truecaller feature for iPhone users- Details\n\nWe wouldn't recommend you to buy the iPhone 13 if you're looking for a fast 120Hz display or the best stills camera available. While the iPhone 13 is a solid phone, it's now a few years old with outdated internals and a camera that falls short of 2024 standards. It does offer good video capabilities with Cinematic Mode, but for the same price, you could find better Android options like the Samsung Galaxy S23 on Flipkart or the OnePlus 12R on Amazon. That said, the iPhone 13 could be a suitable choice for someone who simply needs a reliable phone for basic tasks. As an Apple product, it will continue to receive updates for the foreseeable future, and it's equipped with a powerful A15 chipset, which remains sufficient for most tasks. If you're seeking to join the Apple ecosystem, the iPhone 13 could serve as an affordable gateway.",
+        "source": {
+          "uri": "tech.hindustantimes.com",
+          "dataType": "news",
+          "title": "Hindustan Times Tech"
+        },
+        "authors": [
+        ],
+        "links": [
+          "https://tech.hindustantimes.com/mobile/news/iphone-15-pro-iphone-13-and-other-products-discontinued-after-apple-event-2024-71725933040072.html",
+          "https://tech.hindustantimes.com/tech/news/amazon-prime-video-getting-a-major-redesign-simplified-navigation-ai-suggestions-and-more-71721773361445.html",
+          "https://tech.hindustantimes.com/mobile/news/iphone-16-least-popular-since-iphone-12-new-survey-reflects-on-minimal-updates-71727316919752.html",
+          "https://tech.hindustantimes.com/tech/news/ios-18-release-brings-this-useful-truecaller-feature-for-iphone-users-details-71727337983824.html",
+          "https://tech.hindustantimes.com/mobile/news/samsung-galaxy-s23-ultra-to-be-available-at-rs-69999-in-amazon-great-indian-festival-sale-should-you-buy-71727073312630.html",
+          "https://tech.hindustantimes.com/tags/apple",
+          "https://tech.hindustantimes.com/wearables/news/amazon-great-indian-festival-2024-oneplus-watch-2r-apple-watch-series-9-and-other-top-5-smartwatches-to-buy-71727336220336.html"
+        ],
+        "image": "https://images.hindustantimes.com/tech/img/2024/09/26/1600x900/pexels-douglas-mendes-14666017_1688358204415_1727339335792.jpg",
+        "eventUri": "eng-9928415",
+        "sentiment": 0.2862745098039217,
+        "wgt": 465037673,
+        "relevance": 4
+      },
+      {
+        "uri": "8337816034",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-09-26",
+        "time": "09:06:16",
+        "dateTime": "2024-09-26T09:06:16Z",
+        "dateTimePub": "2024-09-26T09:06:03Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://www.nytimes.com/2024/09/26/style/apple-check-ins.html",
+        "title": "Why Does My iPhone Keep Asking Me to Check In With My Ex?",
+        "body": "An iPhone feature has some users baffled as they are asked to share their location with work acquaintances, dead relatives and people on other continents.\n\nSimon was waiting for a ride home one evening when he received a strange notification on his iPhone. It appeared with the iMessage logo, almost like a text message, but it was a suggestion from Siri, Apple's virtual assistant. \"Start a Check In with Daniel,\" the phone prompted him. \"Let them know when you arrive at your destination.\"\n\nSimon, who works in artificial intelligence at a company in British Columbia and asked to be identified only by his first name because he was commenting on the work of another tech company, was amused by the notification and took a screenshot. Daniel was his old roommate who lived nearly 5,000 miles away, on a completely different continent: Why on earth would his phone think he'd want to check in with him?\n\n\"I found it funny,\" Simon said in a phone interview. \"He is in my Favorites on my phone, so I'm guessing that's how Apple does these recommendations. But it still just doesn't make any sense, because I also have his address saved in my contacts, so my phone should know that we live on different continents.\"\n\nOther iPhone users have not been so amused by the Siri feature, which was released with iOS 17 last year. Since then, the internet has been inundated with posts from users wondering why their phones want them to check in with seemingly random contacts.\n\nMany have taken to Reddit, describing the prompts as distressing or surprising, with some saying the messages had caused tension in their relationships over what felt like an attempt to control their movements. One user was asked to Check In with an ex they were no longer in touch with and others were asked to send them to managers, casual acquaintances, old enemies and, on at least one occasion, a deceased mother.\n\nLeo Margul, a 37-year-old writer living in Los Angeles, said that on two occasions he was leaving concerts when Siri prompted him to start a Check In with his mother, who lives across the country in Boston. When he posted the screenshot to Reddit, other users chimed in to say that they had received similar notifications, but that their parents had passed away.",
+        "source": {
+          "uri": "nytimes.com",
+          "dataType": "news",
+          "title": "The New York Times"
+        },
+        "authors": [
+        ],
+        "links": [
+          "https://www.apple.com/newsroom/2023/06/ios-17-makes-iphone-more-personal-and-intuitive/",
+          "https://www.reddit.com/r/iphone/comments/1eg71co/what_triggered_siri_to_tell_me_to_start_a_checkin/",
+          "https://www.reddit.com/r/iphone/comments/17o76hz/comment/ksfsfuu/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"
+        ],
+        "image": "https://static01.nyt.com/images/2024/09/26/multimedia/26APPLE-CHECKINS-qjvl/26APPLE-CHECKINS-qjvl-videoSixteenByNine3000.jpg",
+        "eventUri": null,
+        "sentiment": 0.1137254901960785,
+        "wgt": 465037576,
+        "relevance": 2
+      },
+      {
+        "uri": "8337806956",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-09-26",
+        "time": "09:00:51",
+        "dateTime": "2024-09-26T09:00:51Z",
+        "dateTimePub": "2024-09-26T09:00:28Z",
+        "dataType": "news",
+        "sim": 0.5529412031173706,
+        "url": "https://www.newsdirectory3.com/iphone-16-pro-max-price-leaked-get-ready-for-a-staggering-1400-tag-on-one-model/",
+        "title": "IPhone 16 Pro Max Price Leaked: Get Ready for a Staggering $1,400 Tag on One Model - News Directory 3",
+        "body": "The iPhone 16 Pro Max price has been continuously updated. As the Apple iPhone 16 series is officially on sale, many people consider the iPhone as a \"speculative product\" or a \"technology toy.\" We will closely follow the market conditions starting from the launch of the iPhone 16 series, so that everyone can ⁢update the ⁤recycling price of ⁢the iPhone 16⁣ series at any time.\n\nEvery year, many fruit farmers are concerned about ⁢the speculative price of the new iPhone. This year,⁢ although many people are not optimistic about the speculative price, the morning of September 20 saw a better-than-expected outcome. Around 10am, most of the Zenda stores have⁣ opened, and the speculative recycling iPhone⁤ 16 Pro Max generally has a water level of 1,000 or 2,000 yuan.\n\n(Updated to 1:00 noon on September 26) Many goods from Suzhou have arrived in Hong Kong today,⁣ and the price ⁢of 512 Dasha and other styles has dropped immediately, with the ⁢water level only about 300 yuan. However, there is ⁣still a good water level at ⁤256 Dasha, and the water level ⁣in the black and white machine is even higher. Among them, the price of 1TB in black and white is as high as 1,400 yuan, ⁢which is unexpected.\n\nThe best ⁤price is still the gold iPhone 16 Pro Max 256GB, which is still around $2300 - $2500 per water level. However, we know from ⁤past ⁤experience that the demand for 1TB is always low. If many people order and receive goods late, the water level will ⁣drop, which is a high risk.",
+        "source": {
+          "uri": "newsdirectory3.com",
+          "dataType": "news",
+          "title": "News Directory 3"
+        },
+        "authors": [
+        ],
+        "links": [
+          "https://www.newsdirectory3.com/connection-of-the-two-sessions-lei-jun-promote-the-low-carbon-development-of-new-energy-vehicles-and-strengthen-the-recycling-of-electronic-waste_-oriental-fortune-network/",
+          "https://www.newsdirectory3.com/efficient-water-management-in-the-mukdahan-irrigation-project-area-reservoirs-at-full-capacity/",
+          "https://www.newsdirectory3.com/convenience-store-owners-group-to-raise-the-price-of-late-night-goods-in-response-to-minimum-wage-increase/"
+        ],
+        "image": "https://cdn.hk01.com/di/media/images/dw/20240920/913758531407056896419067.jpeg/HwwVsZUDaQ6tvAas-NDFFHYj6EOvLqNYnKsitJyrIrQ",
+        "eventUri": "eng-9928415",
+        "sentiment": 0.1215686274509804,
+        "wgt": 465037251,
+        "relevance": 3
+      },
+      {
+        "uri": "8337804886",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-09-26",
+        "time": "09:00:02",
+        "dateTime": "2024-09-26T09:00:02Z",
+        "dateTimePub": "2024-09-26T08:59:13Z",
+        "dataType": "news",
+        "sim": 0,
+        "url": "https://www.dealnews.com/Electronics-Fall-Sale-at-eBay-Up-to-77-off-extra-20-off-free-shipping/21673942.html",
+        "title": "Electronics Fall Sale at eBay: Up to 77% off + extra 20% off",
+        "body": "It's mostly big brands on sale here, including Apple, Samsung, Google, Sennheiser, and JBL. Pictured is the Unlocked Google Pixel 7 Pro 5G Phone, which starts at $390 (this is the best price we've seen for a new model). Shop Now at Woot! An Amazon Company\n\nApple has just announced its new iPhone 16. You can pre-order it on September 13 and it will be available on September 20. Trade in a previous-generation iPhone and you can save up to $800.\n\nClick on \"See all deals\" under \"Carrier Deals at Apple\" on the top of the landing page for carrier-specific offers.\n\nThe iPhone 16 range has been officially announced. Keep up to date with our Best Upcoming iPhone 16 Deals guide to get the best prices and trade-in promotions as preorders become available for carriers like Verizon, AT&T, and others. You may just be able to score a free iPhone 16 or iPhone 16 Pro! Buy Now at Apple",
+        "source": {
+          "uri": "dealnews.com",
+          "dataType": "news",
+          "title": "dealnews"
+        },
+        "authors": [
+        ],
+        "links": [
+          "https://www.dealnews.com/lw/click.html?20,2,21660065"
+        ],
+        "image": "https://c.dlnws.com/image/upload/f_auto,t_maximum,q_auto/cms/jy3ovvim8uee26i9akde.jpg",
+        "eventUri": null,
+        "sentiment": 0.3411764705882352,
+        "wgt": 465037202,
+        "relevance": 4
+      },
+      {
+        "uri": "8337805526",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-09-26",
+        "time": "08:59:55",
+        "dateTime": "2024-09-26T08:59:55Z",
+        "dateTimePub": "2024-09-26T08:59:39Z",
+        "dataType": "news",
+        "sim": 0.5568627715110779,
+        "url": "https://talksport.com/ca/sportsbooks-ca/2083527/best-mobile-betting-sites-canada/",
+        "title": "Best mobile casinos in Canada 2024",
+        "body": "Mobile casinos have become a game-changer for players looking to enjoy their favorite casino games on the go. With smartphones and tablets making it easier than ever to access hundreds of games, the best mobile casinos in Canada can and do offer a seamless gambling experience.\n\nHere, I will showcase the top mobile casinos in 2024, focusing on mobile usability, game variety, and standout features. Whether you're into slots, blackjack, or poker, finding the best mobile casinos ensures you can gamble from anywhere, anytime, so hopefully I will be able to help.\n\nFor me, Duelz Casino takes the top spot for online casinos in Canada. The site is best as of September 2024 due to its intuitive mobile platform, massive game selection, and engaging features.\n\nDuelz's user-friendly interface makes it easy to navigate, and the speed of its mobile app means you're going to always get a smooth gaming experience. On top of that you can enjoy quick deposits and withdrawals, making Duelz Casino an ideal pick for anyone wanting to play casino games online and they're based in Canada.\n\nI'll be reviewing each mobile casino based on factors such as game variety, ease of navigation, mobile app availability, and banking options (withdrawals and deposits). The focus for me is on ensuring Canadian players can enjoy the best experience on mobile platforms.\n\nDuelz Casino is a top choice for mobile gaming players, particularly slot lovers. The casino offers over 1,000 slot games, many of which are optimized for mobile play.\n\nDuelz stands out with its user-friendly mobile platform, which is fast, easy to navigate, and requires no app download (though a web app is available via the operator's site but not on Apple Store or Google Play).\n\nThe bright, colorful interface translates well onto mobile devices, making it an enjoyable gaming experience. Whether playing directly in your mobile browser or via the web app, Duelz provides a really seamless experience with quick loading times and smooth navigation.\n\nCasumo is known for its award-winning mobile experience, which offers seamless navigation on both smartphones and tablets. Whether you're playing through its mobile-optimized site or via the dedicated iOS app, Casumo ensures smooth gameplay across 800+ mobile games.\n\nThe interface is modern and easy to use, allowing you to access slots, table games, and live dealer options effortlessly. With a streamlined design and really fast loading times, Casumo is ideal for players looking for a top-tier mobile casino experience, especially on iPhone or other iOS devices.\n\nbet365 is widely recognized for its robust mobile betting experience. The app, available for both Android and iOS, provides easy navigation and access to a broad range of games and sports markets. Players can enjoy casino games, betting, early payouts, and live streaming directly from their mobile devices.\n\nbet365's intuitive design and comprehensive sports coverage make it a favorite for mobile bettors looking for convenience and performance on the go.\n\nHeySpin Casino offers an extensive mobile gaming experience with over 1,100 games, including a standout selection of scratchcards and live dealer table games. Its mobile platform is optimized for smooth performance on smartphones, featuring fast-loading games and an intuitive layout.\n\nPlayers can enjoy a wide range of slots and live casino options, making HeySpin a versatile choice for mobile gamers seeking variety and easy navigation.\n\nKing Casino offers a smooth mobile experience with over 1,000 high-quality games from top providers like Microgaming, Play'n GO, and NetEnt. The mobile-optimized site delivers fast loading times and easy navigation, with no need for a dedicated app for players in Canada.\n\nKing Casino also stands out for its rapid withdrawal speeds, making it a top pick for players who want quick access to their winnings. The intuitive mobile interface ensures you can enjoy a seamless gaming experience on the go.\n\nLuckster Casino delivers a really solid mobile experience for online casino players in Canada, with 900+ games, including slots, table games, and live dealer options. While it lacks a dedicated mobile app, the browser-based site is really well-optimized for mobile devices, ensuring smooth navigation and fast load times.\n\nLuckster is a great choice for high rollers due to its high-limit tables and a rewarding loyalty program that keeps players engaged and gives them a reason to stay playing with the operator long-term.\n\nMr Vegas Casino offers one of the largest collections of mobile-friendly games for players in Canada, with over 5,000 titles available, including slots, table games, and live dealer options.\n\nThe mobile version of the site is optimized for a smooth experience, and players can access it through any browser on both Android and iOS devices. With seamless navigation, fast load times, and advanced filtering options, Mr Vegas is perfect for those who enjoy a wide range of games at their fingertips.\n\nHot Streak Slots is a mobile-friendly casino that stands out for its wide selection of progressive jackpot slots. With over 1,500 games and a mobile-optimized website, you can enjoy an immersive experience directly from your smartphone or tablet.\n\nThe site has a smooth mobile interface, making it easy to explore its diverse game library. Hot Streak Slots also ensures fast withdrawals and secure payments, which are essential for mobile players who want to have a quick and non-frustrating experience.\n\nVegasLand Casino is known for its wide selection of games, offering over 1,000 titles, including slots, table games, and live casino options. With a mobile-optimized platform, you can easily navigate the site on smartphones/tablets and enjoy seamless gaming without a dedicated app. With licenses across Malta and the UK, you know that you're getting a safe and secure way to play.\n\nThe user-friendly interface and responsive design make it perfect for those who want a hassle-free mobile gambling experience. Whether you prefer slots or live dealer games, VegasLand provides a comprehensive range of options for mobile users.\n\nPlayGrand Casino offers a premium VIP experience and stands out for its excellent rewards for loyal players. The mobile platform is smooth and easy to navigate, and it provides access to over 1,300 games, including slots, table games, and live dealer options.\n\nWhile there's no dedicated mobile app as of writing, the site works flawlessly on mobile browsers, offering a quality gaming experience on the go. The PlayGrand VIP program gives players access to exclusive bonuses and cashback rewards, making it a great option for frequent mobile gamers.\n\nBelow, you'll find details on the best mobile casinos in Canada, along with their top features and app availability.\n\nHere are a few reasons that playing on a mobile casino casino could be the right option for you:\n\nStarburst is one of the most popular mobile slots, known for its vibrant graphics and easy-to-understand gameplay. Its smooth, fast-paced action makes it perfect for mobile play, and the Wild feature adds excitement to proceedings. With simple controls and a high RTP, it's a great pick for beginners and seasoned players alike.\n\nBlackjack is ideal for mobile gaming due to its quick rounds and strategic gameplay. Mobile versions are optimized for touchscreens, making it easy to place bets and make decisions. The game's simplicity combined with strategic depth makes it an excellent choice for on-the-go play.\n\nMobile poker, especially Texas Hold'em, offers a competitive gaming experience with real-time multiplayer action. Many mobile apps feature tournaments and cash games, allowing you to compete from anywhere. The intuitive controls and real-time chat enhance the immersive experience, making it for me one of the top choices for mobile gaming.\n\nRoulette works seamlessly on mobile, with touch controls that allow you to quickly place bets and spin the wheel. The visual clarity and smooth animations make it an engaging game on smartphones. European and American roulette variants are available, with mobile games often offering customizable settings for bet limits.\n\nLive Baccarat brings the casino floor to your screen, offering real-time gameplay with a live dealer (usually streamed in HD). It's one of the best games to experience on mobile due to its interactive nature, and it runs smoothly on most mobile and tablet devices. The high-quality graphics and live chat make it feel like a real casino experience, or at least as close as you're going to get behind a screen!\n\nDuelz Casino offers a 100% match bonus up to $100 for new mobile players, along with 10 free spins. This bonus is ideal for those who love mobile slots, as Duelz boasts over 1,000 slot games. With a low wagering requirement of 40x, players can quickly enjoy their winnings while experiencing Duelz's smooth mobile platform.\n\nMr Vegas Casino provides a generous 11 free spins with your first deposit, along with a 50% match bonus up to $200. This bonus is particularly enticing for mobile players who enjoy game variety, with over 5,000 games available. The free spins can be used on popular slot titles, and the mobile-optimized site ensures fast gameplay.\n\nbet365 offers a Bet $10, get $50 in bonus bets promotion for new mobile players. This is an exclusive offer for those who download and use the bet365 mobile app. It's perfect for mobile sports betting fans as well as casino players, providing extra funds to explore the site's live betting and sports markets.\n\nHot Streak Slots gives new players a 100% match bonus up to $100, plus 10 free spins. Mobile players will love this bonus, especially those into progressive jackpot slots. With over 1,500 mobile-optimized games and fast transactions, this bonus adds value and excitement for slot lovers on the go.\n\nPlayGrand Casino rewards its VIP players with exclusive bonuses, including cashback and higher match deposit offers. As part of their multi-level VIP program, mobile players can unlock free spins, no-deposit bonuses, and even personal account managers. This is a great perk for frequent mobile users looking for ongoing rewards.\n\nEnsure your device is protected by enabling security features like biometric authentication (fingerprint or face recognition) and setting a strong password. Keep your operating system and apps updated to avoid vulnerabilities. Using mobile-specific security software can also prevent malware from compromising your personal data while playing at mobile casinos.\n\nAlways play at mobile casinos that are licensed by reputable authorities like the Malta Gaming Authority or the UK Gambling Commission. These casinos follow strict security protocols and are regularly audited, ensuring a safe gambling environment. Check for SSL encryption on the casino's mobile site to protect your data during transactions.\n\nOpt for secure and reputable payment methods like Interac, PayPal, or credit cards for mobile deposits and withdrawals. These services offer additional security features, such as encryption and fraud protection. Avoid using public Wi-Fi when making transactions to prevent unauthorized access to your sensitive financial information.\n\nWhere available, enable two-factor authentication (2FA) for your casino account. This adds an extra layer of security by requiring a second form of verification (e.g., a code sent to your phone) when logging in or making transactions. It significantly reduces the risk of unauthorized access to your account.\n\nMost mobile casinos offer tools to set deposit, wagering, and time limits. Use these features to maintain control over your gambling habits and prevent overspending. Regularly check your gaming history to monitor your activity and stay aware of your spending. If necessary, consider taking breaks or using self-exclusion options.\n\nInterac is a popular payment method for Canadian players, offering fast and secure transactions directly from your bank account. It's easy to use on mobile devices, with low to no fees for deposits and withdrawals. Most casinos process Interac transactions instantly, though withdrawals may take 1-2 business days. The downside is that not all mobile casinos accept Interac for withdrawals.\n\nVisa and Mastercard are widely accepted at mobile casinos and offer secure, instant deposits. These credit and debit cards are convenient for players who prefer a familiar method. However, withdrawals can take 2-5 business days to process, and some casinos may charge fees for using cards, especially for withdrawals.\n\nPayPal is known for its security and ease of use, making it a great option for mobile players. Transactions are typically instant, with no fees for deposits or withdrawals. PayPal also offers buyer protection, adding an extra layer of security. The downside is that PayPal is not accepted at all Canadian mobile casinos.\n\nMuchBetter is a mobile-specific e-wallet that offers fast deposits and withdrawals with minimal fees. Its app is designed for mobile users, making it a seamless choice for casino payments. Transactions are processed instantly, and the app provides high-level security with device pairing and fingerprint login. The main drawback is that it's still gaining popularity, so not all casinos support it.\n\nSkrill is a popular e-wallet for Canadian players, known for fast transactions and mobile-friendly features. Deposits are usually instant, and withdrawals take around 24 hours, making it a speedy option for mobile users. However, Skrill may charge fees for certain transactions, and some mobile casinos exclude Skrill deposits from bonus eligibility.\n\nWhen reviewing and rating mobile casinos, I consider several key factors that ensure a smooth, secure, and enjoyable experience. From design and device compatibility to game variety and payment options, each aspect plays a crucial role in delivering the best mobile casino experience. Here's a breakdown of the criteria I use:\n\nA great mobile casino should have a clean, responsive design that works smoothly across different devices, whether iOS or Android. The interface must be easy to navigate with clear menus and quick access to games and features. I check for loading times and how well the platform adapts to various screen sizes for an optimal user experience as well.\n\nSecurity is a top priority, so I look for casinos with SSL encryption which protects user data and transactions. Casinos should be licensed by reputable authorities like the Malta Gaming Authority or UK Gambling Commission. Additional safety features such as two-factor authentication (2FA) and responsible gambling tools are also important when assessing mobile security.\n\nI assess whether the mobile casino offers a diverse selection of games, including slots, table games, and live dealer options. The availability of mobile-specific promotions, such as welcome bonuses or free spins, is also key. A wide variety of games from top providers, paired with generous promotions, ensures a richer gaming experience.\n\nReliable and secure payment methods are essential for mobile casinos. I look for a range of banking options, including Interac, PayPal, and credit cards, along with e-wallets like Skrill or MuchBetter. Fast deposit and withdrawal times, low fees, and mobile-optimized payment gateways are crucial to enhancing convenience for players, so I make sure that the operators I suggest have those in abundance as well.\n\nI evaluate whether the casino offers a dedicated mobile app or if the site functions seamlessly in a mobile browser. A well-designed app improves the gaming experience with one-tap access, better performance, and exclusive app-only features. If an app is not available, I ensure the mobile browser version still delivers high-quality gameplay.\n\nDuelz, Mr Vegas, and bet365 are among the best mobile casinos in Canada. These casinos stand out for their mobile usability, game variety, and excellent security. Each offers a smooth mobile experience, whether through a dedicated app or an optimized mobile site, ensuring players can enjoy top-quality games and promotions on the go, so I 100% recommend them!\n\nYes, mobile casinos are legal in Canada, but they must be licensed. Most mobile casinos that accept Canadian players are licensed by reputable authorities such as the Malta Gaming Authority or UK Gambling Commission. As long as the casino is licensed, it's safe and legal to play from your mobile device in Canada.\n\nbet365, Casumo, and Duelz offer some of the best mobile casino apps. These apps provide fast navigation, exclusive bonuses, and access to hundreds of games. They're designed for both iOS and Android, offering high security, smooth performance, and features like live betting and live dealer games.\n\nYes, you can win real money on casino apps. Mobile casino apps allow players to wager real money on a variety of games such as slots, poker, blackjack, and live dealer games. Once you win, you can withdraw your earnings through secure payment methods like Interac or PayPal.\n\nNo, but most games are available on mobile. Many online casinos optimize their most popular slots, table games, and live dealer games for mobile play. However, some older or niche games may only be available on desktop. Mobile game libraries usually include hundreds of titles.\n\nYes, many mobile casinos offer free demo versions of games. Players can try out slots and table games in demo mode without wagering real money. This is a great way to practice or explore new games before making a deposit. However, live dealer games are usually not available for free play, so bear that in mind.\n\nCommercial content notice: Taking one of the casino offers featured in this article may result in a payment to talkSPORT. 19+. T&Cs apply. Responsible Gambling Council\n\nA responsible gambler is someone who:\n\nFor help with a gambling problem, call the Centre for Addiction and Mental Health on 1 800 463-2338.",
+        "source": {
+          "uri": "talksport.com",
+          "dataType": "news",
+          "title": "talkSPORT"
+        },
+        "authors": [
+          {
+            "uri": "daniel_smyth@talksport.com",
+            "name": "Daniel Smyth",
+            "type": "author",
+            "isAgency": false
+          }
+        ],
+        "links": [
+          "https://talksport.com/goto-ca/duelzcasino",
+          "https://talksport.com/goto-ca/casumo",
+          "https://talksport.com/goto-ca/bet365",
+          "https://talksport.com/goto-ca/heyspin",
+          "https://talksport.com/goto-ca/king_casino",
+          "https://talksport.com/goto-ca/luckster_casino",
+          "https://talksport.com/goto-ca/mr_vegas_casino",
+          "https://talksport.com/goto-ca/hotstreak_slots",
+          "https://talksport.com/goto-ca/vegasland",
+          "https://talksport.com/goto-ca/playgrandcasino",
+          "https://twitter.com/DanSmythThePoet",
+          "https://www.responsiblegambling.org/",
+          "http://www.gamcare.org.uk/"
+        ],
+        "image": "https://talksport.com/wp-content/uploads/sites/5/2024/09/talksport-mobile-casinos-CA-non-op.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+        "eventUri": "eng-9931818",
+        "sentiment": 0.607843137254902,
+        "wgt": 465037195,
+        "relevance": 1
+      },
+      {
+        "uri": "8337802561",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-09-26",
+        "time": "08:57:47",
+        "dateTime": "2024-09-26T08:57:47Z",
+        "dateTimePub": "2024-09-26T08:57:35Z",
+        "dataType": "news",
+        "sim": 0.6274510025978088,
+        "url": "https://www.zdnet.com/article/meta-takes-some-big-ai-swings-at-meta-connect-2024/",
+        "title": "Meta takes some big AI swings at Meta Connect 2024",
+        "body": "Also: Everything announced at Meta Connect 2024: $299 Quest 3S, Orion AR glasses, and more\n\nIn this article, though, we'll dig into several powerful and impressive announcements related to the company's AI efforts.\n\nZuckerberg announced the availability of Llama 3.2, which adds multimodal capabilities. In particular, the model can understand images.\n\nHe compared Meta's Llama 3.2 large language models with other LLMs, saying Meta \"Differentiates itself in this category by offering not only state of the art models, but unlimited access to those models for free, and integrated easily into our different products and apps.\"\n\nAlso: Meta inches toward open-source AI\n\nMeta AI is Meta's AI assistant, now based on Llama 3.2. Zuckerberg stated Meta is on track to be the most used AI assistant globally, having almost 500 million monthly active users.\n\nTo demonstrate the model's understanding of images, Zuckerberg opened an image on a mobile device using the company's image-edit capability. Meta AI was able to change the image, modifying a shirt to tie-dye or adding a helmet, all in response to simple text prompts.\n\nMeta's AI assistant is now able to hold voice conversations with you from within Meta's apps. I've been using a similar feature in ChatGPT and found it useful when two or more people need to hear the answer to a question.\n\nZuckerberg claims that AI voice interaction will be bigger than text chatbots, and I agree -- with one caveat. Getting to the voice interaction has to be easy. For example, to ask Alexa a question, you simply speak into the room. But to ask ChatGPT a question on the iPhone, you have to unlock the phone, go into the ChatGPT app, and then enable the feature.\n\nAlso: AI voice generators: What they can do and how they work\n\nUntil Meta has devices that just naturally listen for speech, I fear even the most capable voice assistants will be constrained by inconvenience.\n\nYou can also give your AI assistant a celebrity voice. Choose from John Cena, Judi Dench, Kristen Bell, Keegan-Michael Key, and Awkwafina. Natural voice conversation will be available in Instagram, WhatsApp, and Messenger Facebook and is rolling out today.\n\nNext up are some features Meta has added to its AI Studio chatbot creation tool. AI Studio lets you create a character (either an AI based on your interests or an AI that \"is an extension of you\"). Essentially, you can create a chatbot that mirrors your conversational style.\n\nBut now Meta is diving into the realm of uncanny valley deepfakes.\n\nAI Studio, until this announcement, contained a text-based interface. But Meta is releasing a version that is \"more natural, embodied, interactive.\" And when it comes to \"embodied\", they're not kidding around.\n\nIn the demo, Zuckerberg interacted with a chatbot modeled on creator Don Allen Stevenson III. This interaction appeared to be a \"live\" video of Stevenson, full and completely tracking head motion and lip animations. Basically, he could ask Robot Don a question and it looked like the real guy was answering.\n\nAlso: How Apple, Google, and Microsoft can save us from AI deepfakes\n\nPowerful, freaky, and unnerving. Plus, the potential for creating malicious chatbots using other folks' faces seems a distinct possibility.\n\nMeta seems to have artificial lip-synch and facial movements tied down. They've reached a point where they can make a real person's face move and speak generated words.\n\nMeta has extended this capability to translation. They now offer automatic video dubbing on Reels, in English and Spanish. That feature means you can record a Reel in Spanish, and the social will play it back in English -- and it will look like you're speaking English. Or you can record in English and it will play back in Spanish, as if you're speaking in Spanish.\n\nIn the above example, creator Ivan Acuña spoke in Spanish, but the dub came back in English. As with the previous example, the video was nearly perfect and it looked like Acuña had been recorded speaking English originally.\n\nZuckerberg came back for another dip into the Llama 3.2 model. He said the multimodal nature of the model has increased the parameter count considerably.\n\nAnother interesting part of the announcement was the much smaller 1B and 3B models optimized to work on-device. This effort will allow developers to create more secure and specialized models for custom apps, that live right in the app.\n\nAlso: I've tested dozens of AI chatbots since ChatGPT's stunning debut. Here's my top pick\n\nBoth of these models are open source, and Zuckerberg was touting the idea that Llama is becoming \"the Linux of the AI industry\".\n\nFinally, a bunch more AI features were announced for Meta's AI glasses. We have another article that goes into those features in detail.",
+        "source": {
+          "uri": "zdnet.com",
+          "dataType": "news",
+          "title": "ZDNet"
+        },
+        "authors": [
+        ],
+        "links": [
+          "https://www.zdnet.com/article/everything-announced-at-meta-connect-2024-299-quest-3s-orion-ar-glasses-and-more/",
+          "https://www.zdnet.com/article/best-vr-headset/",
+          "https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/",
+          "https://www.zdnet.com/article/metas-new-ar-glasses-offer-neural-control-no-implant-necessary/",
+          "https://www.zdnet.com/article/meta-inches-toward-open-source-ai-with-new-llama-3-1/",
+          "https://www.zdnet.com/article/we-finally-found-a-way-to-escape-meta-ai-on-facebook-but-theres-a-catch/",
+          "https://www.zdnet.com/article/what-is-chatgpt-the-worlds-most-popular-ai-chatbot-explained/",
+          "https://www.zdnet.com/home-and-office/smart-home/best-alexa-devices/",
+          "https://www.zdnet.com/article/best-iphone/",
+          "https://www.zdnet.com/article/ai-voice-generators-what-they-can-do-and-how-they-work/",
+          "https://www.zdnet.com/article/instagram-stories-are-about-to-change-in-a-big-way-with-this-new-feature/",
+          "https://ai.meta.com/ai-studio/",
+          "https://www.zdnet.com/article/mcafee-unleashes-ai-deepfake-audio-detector-but-how-reliable-can-it-be/",
+          "https://www.donalleniii.me/",
+          "https://www.zdnet.com/article/how-apple-google-and-microsoft-can-save-us-from-ai-deepfakes/",
+          "https://www.zdnet.com/article/instagram-reels-will-look-a-lot-more-like-tiktok-soon/",
+          "https://www.zdnet.com/article/best-ai-chatbot/",
+          "https://www.zdnet.com/article/4-exciting-features-coming-to-metas-ray-ban-smart-glasses-including-the-ability-to-remember-things/",
+          "https://advancedgeekery.substack.com/",
+          "https://twitter.com/davidgewirtz"
+        ],
+        "image": "https://www.zdnet.com/a/img/resize/a59b4fcebec66a5bd9094448cb976f0693d42153/2024/09/25/9ff714c8-ebb2-4824-bb8c-369d37f1ea59/zuckerberg.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "eventUri": "eng-9928862",
+        "sentiment": 0.2392156862745098,
+        "wgt": 465037067,
+        "relevance": 1
+      },
+      {
+        "uri": "8337782142",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-09-26",
+        "time": "08:42:46",
+        "dateTime": "2024-09-26T08:42:46Z",
+        "dateTimePub": "2024-09-26T08:42:33Z",
+        "dataType": "news",
+        "sim": 0.5215686559677124,
+        "url": "https://www.hurriyetdailynews.com/turkiye-seeks-to-become-tech-development-hub-200949",
+        "title": "Türkiye seeks to become tech development hub - Latest News",
+        "body": "Türkiye aims to become a technology development hub and strengthen the position of the nation's tech initiatives worldwide, Industry and Technology Minister Mehmet Kacır has said.\n\nKacır told Anadolu Agency that the visits to New York and the U.S. in general by him and President Recep Tayyip Erdoğan have given them the chance to meet with heads of leading American firms, and this year, the Foreign Economic Relations Board (DEİK) held the Türkiye Investment Conference, attended by U.S.-based business representatives.\n\n\"The economic stability we achieved in the last year and the results we've got though the Medium-Term Program show the resilience of Türkiye despite all regional and global challenges we faced, as the gains in the defense and aviation industries, as well as our country's research and development capacity, attract more investor interest,\" said Kacır.\n\nHe said he spoke to Nick Ammann, vice president of global government affairs at Apple, discussing Türkiye's potential contributions to the iPhone maker, urging Apple to invest in Türkiye's human resources.\n\n\"Türkiye's tech startups generate billions of dollars every year through their apps on the App Store, which we want to increase,\" Kacır added.\n\nHe said that Türkiye's actions towards digital and green transformation have been attracting investors, but a bigger incentive is the HIT-30 program, offering investors $30 billion in financing for high-tech sectors such as electric vehicles, battery and solar technologies, wind turbine advances, and more until 2030.\n\n\"The sectors this program focuses on are the ones that investors seek in order to diversify their investments, and as the pandemic made clear, when these sectors produce from a single production and supply point, the risk from this threatens the whole world, revealing the need for hubs spread out in multiple areas,\" he stressed.\n\n\"We believe Türkiye can be one of the world's important supply centers for renewable energy products and chips, and the government will provide global brands effective support through the program to register high gains in Türkiye's high-tech production and export figures,\" the minister added.\n\nMeanwhile, Energy and Natural Resources Minister Alparslan Bayraktar has held a round table meeting in New York with U.S. energy sector executives.\n\n\"Our country promises investors a predictable market with new reforms and a wide investment potential in the energy transformation process,\" Bayraktar wrote on his official X account after the meeting.\n\n\"As the private sector seizes the opportunities offered by the dynamic structure of Türkiye's energy sector, we will continue to support them by paving the way for the business community.\"",
+        "source": {
+          "uri": "hurriyetdailynews.com",
+          "dataType": "news",
+          "title": "Hurriyet Daily News"
+        },
+        "authors": [
+        ],
+        "links": [
+        ],
+        "image": "https://image.hurimg.com/i/hurriyet/75/200x200/66f51b57d8586ac5a804af36.jpg",
+        "eventUri": "eng-9932240",
+        "sentiment": 0.388235294117647,
+        "wgt": 465036166,
+        "relevance": 1
+      },
+      {
+        "uri": "8337781098",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-09-26",
+        "time": "08:42:30",
+        "dateTime": "2024-09-26T08:42:30Z",
+        "dateTimePub": "2024-09-26T08:41:45Z",
+        "dataType": "news",
+        "sim": 0.7098039388656616,
+        "url": "https://www.indiatoday.in/technology/news/story/flipkart-big-billion-days-sale-now-live-iphone-15-pro-gets-huge-discount-2606808-2024-09-26",
+        "title": "Flipkart Big Billion Days sale now live: iPhone 15 Pro gets huge discount",
+        "body": "Flipkart Big Billion Days Sale is now live and the platform kept its promise of offering huge discounts on iPhones. While the iPhone 15 Pro Max and iPhone 15 Plus are selling at a lower price, Flipkart is giving the best deal on the iPhone 15 Pro. It was announced in India at Rs 1,34,999 and is now on sale for less than Rs 1 lakh. Here are the details.\n\nThe iPhone 15 Pro is listed with a price tag of Rs 99,999 at Flipkart's Big Billion Days sale. This price is for the 128GB storage model. As mentioned above, the iPhone 15 Pro was announced in India at Rs 1,34,999. So, Flipkart is giving a discount of Rs 35,000 without any conditions, making it the best iPhone deal of 2024.\n\nIn addition to this, there is also Rs 5,000 discount offer on HDFC bank cards, which will effectively reduce the price to Rs 94,999. It is important to note that once this Flipkart Diwali sale ends, the iPhone 15 Pro will again be sold for more than Rs 1 lakh. Speaking of which, it is currently unknown when this iPhone 15 deal will expire. If we take a look at the track record of Flipkart, the e-commerce giant has offered good discount deals for a limited time period. So, there are chances that the company could decide to take down the iPhone 15 Pro offer.\n\nUsers can always consider claiming the exchange offers to get even more discount. People who are opting for exchange offers are advised to check exchange deals on Cashify as well. It is always better to check deals across different platforms to get the best deal.\n\nThe iPhone 15 Pro has a light, durable titanium chassis with a brushed effect to reduce fingerprint smudges. The device's edges are smoother and more rounded where the metal meets the glass. You will also see a USB-C port at the bottom.\n\nApple has given the 6.1-inch screen on the regular Pro version. It features a Super Retina XDR display with support for 120Hz ProMotion technology. It supports the always-on display feature and is even eligible for Apple Intelligence. People can download the latest iOS 18 software as well.\n\nIt is driven by the A17 Pro chip, a powerhouse that Apple claims delivers unmatched performance in the smartphone realm, potentially rivalling even high-end PCs. With a revamped GPU at its core, you can get a solid gaming experience on the iPhone 15 Pro. The latest iPhone 15 Pro smartphone comes in attractive colours, including Black titanium, white titanium, blue titanium, and natural titanium.\n\nApple claims the camera system on the iPhone 15 Pro models is \"the equivalent of seven camera lenses in your pocket.\" The iPhone 15 Pro model features a 48-megapixel camera for better low-light and lens flare-free photos. Users can switch between focal lengths (24mm, 28mm, 35mm) and achieve 3x optical zoom. It supports 4K60 ProRes video recording and direct external drive connectivity via the USB-C port. In short, the iPhone 15 Pro is currently one of the best phones in the market.",
+        "source": {
+          "uri": "indiatoday.in",
+          "dataType": "news",
+          "title": "India Today"
+        },
+        "authors": [
+        ],
+        "links": [
+        ],
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202409/iphone-15-pro-max-262303125-16x9_3.png?VersionId=yd9c2VnVkiXGnm.IIgrmKgoSAWbykuLt",
+        "eventUri": "eng-9928415",
+        "sentiment": 0.2627450980392156,
+        "wgt": 465036150,
+        "relevance": 6
+      },
+      {
+        "uri": "2024-09-496845996",
+        "lang": "eng",
+        "isDuplicate": false,
+        "date": "2024-09-26",
+        "time": "08:38:11",
+        "dateTime": "2024-09-26T08:38:11Z",
+        "dateTimePub": "2024-09-26T08:27:00Z",
+        "dataType": "news",
+        "sim": 0.6274510025978088,
+        "url": "https://www.nasdaq.com/articles/2-warren-buffett-stocks-hold-forever",
+        "title": "2 Warren Buffett Stocks to Hold Forever",
+        "body": "Warren Buffett's investing career has inspired countless investors to follow his strategy. There's no better way to start imitating the Oracle of Omaha than to follow his stock selections at Berkshire Hathaway.\n\nBerkshire owns dozens of privately owned businesses, but Buffett looks at buying stocks the same way as buying the whole business. Here are two stocks from Berkshire's portfolio to hold for a lifetime.\n\nDespite weak consumer spending trends this year, the beverage industry has remained resilient. Coca-Cola posted a 15% year-over-year increase in adjusted revenue in Q2, driven by balanced increases in pricing and concentrate sales.\n\nThe company has a powerful brand that gives the business a durable competitive advantage. Coca-Cola has valuable relationships with retail partners due to the brand's ability to drive sales. For example, the company recently launched a lighter and more affordable bottle in India that has extended shelf life, which is helping reach more customers and reduce costs.\n\nCoke is also leveraging the power of artificial intelligence (AI) to adjust pricing, which is driving revenue growth but also will lead to more efficient operations over time. The company's margins were up last quarter and that's a good sign of what's to come in a stronger demand environment.\n\nThe carbonated soft drink industry continues to show long-term growth potential. Statista estimates the revenue in the at-home market will grow 5% annually through 2028. Coca-Cola stock should grow in value over the long term, and investors also get the benefit of a forward dividend yield of 2.70% to pad returns.\n\n2. Apple\n\nApple (NASDAQ: AAPL) stock has soared to new highs following the announcement of Apple Intelligence in June. Investors see a strong upgrade cycle coming for the iPhone, which generates most of Apple's $385 billion in annual sales.\n\nWhile Berkshire reduced its massive stake in Q2, Buffett isn't selling out of Apple. He previously called Apple a superior business to any Berkshire owns, and he mentioned at this year's shareholders' meeting that the stock will likely remain Berkshire's largest investment by the end of the year.\n\nWith an installed base of more than 2.2 billion active devices, Apple Intelligence is a free update coming to Apple's software but is expected to drive a major upgrade cycle for Apple over the next few years, since it will require devices with more recent processors. The AI features will undoubtedly reshape how millions of customers interact with their devices, and that could lead to another stretch of strong growth.\n\nUltimately, the most attractive opportunity for Apple is the impact a growing installed base of devices will do for its lucrative services business. Revenue from services is already hitting new records heading into the launch of Apple Intelligence next month, up 14% year-over-year last quarter. Apple has made investments to expand the content offering across Apple TV+ and other services, which has driven paid subscriptions to surpass 1 billion.\n\nApple stock is trading at a higher price-to-earnings ratio than when Buffett first bought shares in 2016, but investors should expect the stock to follow the growth in Apple's earnings. It's one of the most valuable brands in the world that should grow more valuable in the AI era.\n\nThe Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now... and Coca-Cola wasn't one of them. The 10 stocks that made the cut could produce monster returns in the coming years.\n\nConsider when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you'd have $740,704!*\n\nStock Advisor provides investors with an easy-to-follow blueprint for success, including guidance on building a portfolio, regular updates from analysts, and two new stock picks each month. The Stock Advisor service has more than quadrupled the return of S&P 500 since 2002*.\n\nJohn Ballard has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Apple and Berkshire Hathaway. The Motley Fool has a disclosure policy.\n\nThe views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",
+        "source": {
+          "uri": "nasdaq.com",
+          "dataType": "news",
+          "title": "NASDAQ Stock Market"
+        },
+        "authors": [
+          {
+            "uri": "motley_fool@nasdaq.com",
+            "name": "Motley Fool",
+            "type": "author",
+            "isAgency": false
+          }
+        ],
+        "links": [
+          "https://www.fool.com/investing/how-to-invest/famous-investors/warren-buffett-investments/?utm_source=nasdaq&utm_medium=feed&utm_campaign=article&referring_guid=60bef854-236b-488c-946f-74e1fcae0173",
+          "https://www.fool.com/terms/a/artificial-intelligence/?utm_source=nasdaq&utm_medium=feed&utm_campaign=article&referring_guid=60bef854-236b-488c-946f-74e1fcae0173",
+          "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-coca-cola-stock/?utm_source=nasdaq&utm_medium=feed&utm_campaign=article&referring_guid=60bef854-236b-488c-946f-74e1fcae0173",
+          "https://www.fool.com/terms/f/forward-dividend-yield/?utm_source=nasdaq&utm_medium=feed&utm_campaign=article&referring_guid=60bef854-236b-488c-946f-74e1fcae0173",
+          "https://www.nasdaq.com/market-activity/stocks/aapl",
+          "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-apple-stock/?utm_source=nasdaq&utm_medium=feed&utm_campaign=article&referring_guid=60bef854-236b-488c-946f-74e1fcae0173",
+          "https://api.fool.com/infotron/infotrack/click?apikey=35527423-a535-4519-a07f-20014582e03e&impression=9140a8e2-e5f6-48a4-9683-03582347bf61&url=https%3A%2F%2Fwww.fool.com%2Fmms%2Fmark%2Fe-foolcom-sa-bbn-dyn%3Faid%3D10993%26source%3Disaeditxt0010958%26ftm_cam%3Dsa-bbn-evergreen%26ftm_veh%3Darticle_pitch_feed_partners%26ftm_pit%3D16432&utm_source=nasdaq&utm_medium=feed&utm_campaign=article&referring_guid=60bef854-236b-488c-946f-74e1fcae0173",
+          "https://www.fool.com/legal/fool-disclosure-policy/"
+        ],
+        "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+        "eventUri": "eng-9932401",
+        "sentiment": 0.2313725490196079,
+        "wgt": 465035891,
+        "relevance": 6
+      }
+    ],
+    "totalResults": 23956,
+    "page": 2,
+    "count": 20,
+    "pages": 3
+  }
+}
