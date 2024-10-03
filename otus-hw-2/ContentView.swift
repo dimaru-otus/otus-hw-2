@@ -9,6 +9,7 @@ import NewsAPI
 struct ContentView: View {
     @State private var listSelection: NewsViewModel.ListSelection = .iPhone
     @ObservedObject var viewModel: NewsViewModel
+
     init(container: NetworkService) {
         viewModel = NewsViewModel(container: container)
     }
@@ -27,17 +28,12 @@ struct ContentView: View {
                     viewModel.setKeywords(listSelection)
                 }
                 .onAppear {
-                    viewModel.setKeywords(.iPhone)
+                    viewModel.setKeywords(listSelection)
                 }
-                List{
+                List {
                     ForEach(viewModel.articles) { article in
                         NavigationLink(value: article.uri) {
-                            AsyncImage(url: URL(string: article.image ?? "")) {
-                                $0.resizable()
-                            } placeholder: {
-                                ProgressView()
-                            }.frame(width: 40.0, height: 40.0)
-                            Text(article.title)
+                            ArticleCell(image: article.image, title: article.title)
                         }
                     }
                     if viewModel.isMoreDataAvailable {
@@ -55,6 +51,7 @@ struct ContentView: View {
                 viewModel.setKeywords(listSelection)
             }
             .navigationTitle("Apple news")
+            .navigationBarTitleDisplayMode(.inline)
             .navigationDestination(for: String.self) { uri in
                 if let article = viewModel.articles.first(where: { $0.uri == uri}) {
                     ArticleDetailView(article)
@@ -82,19 +79,39 @@ struct ContentView: View {
             viewModel.fetch()
         }
     }
-}
-
-struct ErrorView: View {
-    var errorMessage: String
     
-    init(_ errorMessage: String) {
-        self.errorMessage = errorMessage
+    struct ArticleCell: View {
+        let image: String?
+        let title: String
+        init(image: String?, title: String) {
+            self.image = image
+            self.title = title
+        }
+
+        var body: some View {
+            HStack {
+                AsyncImage(url: URL(string: image ?? "")) {
+                    $0.resizable()
+                } placeholder: {
+                    ProgressView()
+                }.frame(width: 40.0, height: 40.0)
+                Text(title)
+            }
+        }
     }
-    var body: some View {
-        Image(systemName: "exclamationmark.triangle")
-        .resizable()
-        .frame(width: 30.0, height: 40.0)
-        Text(errorMessage)
+    
+    struct ErrorView: View {
+        var errorMessage: String
+        
+        init(_ errorMessage: String) {
+            self.errorMessage = errorMessage
+        }
+        var body: some View {
+            Image(systemName: "exclamationmark.triangle")
+                .resizable()
+                .frame(width: 30.0, height: 40.0)
+            Text(errorMessage)
+        }
     }
 }
 
