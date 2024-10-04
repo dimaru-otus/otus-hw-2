@@ -45,7 +45,7 @@ struct ArticleDetailView: View {
                         .transition(.scale(scale: 0.1, anchor: .center))
                 case .failure:
                     Image(systemName: "exclamationmark.square")
-                        .resizable().scaledToFit()
+                        .resizable().scaledToFit().frame(height: 200)
                 @unknown default:
                     Image(systemName: "exclamationmark.square")
                         .resizable().scaledToFit()

@@ -35,8 +35,9 @@ final class NewsViewModel: ObservableObject {
     @MainActor @Published var paginationState: PaginationState = .idle
     @MainActor @Published var isMoreDataAvailable: Bool = true
     
-    init(container: NetworkService) {
+    init(container: NetworkService, selection: ListSelection) {
         self.container = container
+        self.keywords = selection.keywords
     }
     
     @MainActor func setKeywords(_ selection: ListSelection) {
@@ -47,7 +48,6 @@ final class NewsViewModel: ObservableObject {
     }
 
     @MainActor func fetch() {
-        print("NewsViewModel:", #function)
         paginationState = .isLoading
         Task {
             do {

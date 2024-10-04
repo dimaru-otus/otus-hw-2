@@ -7,15 +7,17 @@ import SwiftUI
 import NewsAPI
 
 struct ContentView: View {
-    @State private var listSelection: NewsViewModel.ListSelection = .iPhone
+    @State private var listSelection: NewsViewModel.ListSelection
     @ObservedObject var viewModel: NewsViewModel
-
+    
     init(container: NetworkService) {
-        viewModel = NewsViewModel(container: container)
+        listSelection = .iPhone
+        viewModel = NewsViewModel(container: container, selection: .iPhone)
+        print(#function)
     }
     
     var body: some View {
-        NavigationStack {
+        NavigationStack() {
             VStack {
                 Picker("", selection: $listSelection) {
                     ForEach(NewsViewModel.ListSelection.allCases, id: \.self) {
@@ -25,9 +27,6 @@ struct ContentView: View {
                 }
                 .pickerStyle(.segmented)
                 .onChange(of: listSelection) {
-                    viewModel.setKeywords(listSelection)
-                }
-                .onAppear {
                     viewModel.setKeywords(listSelection)
                 }
                 List {
@@ -90,11 +89,32 @@ struct ContentView: View {
 
         var body: some View {
             HStack {
-                AsyncImage(url: URL(string: image ?? "")) {
-                    $0.resizable()
-                } placeholder: {
-                    ProgressView()
-                }.frame(width: 40.0, height: 40.0)
+                AsyncImage(
+                    url: URL(string: image ?? ""),
+                    transaction: Transaction(animation: .easeInOut)
+                ) { phase in
+                    switch phase {
+                    case .empty:
+                        if image == nil {
+                            Image(systemName: "rectangle.slash")
+                                .resizable()
+                                .scaledToFit()
+                        } else {
+                            ProgressView()
+                        }
+                    case .success(let image):
+                        image.resizable()
+                            .scaledToFit()
+                            .transition(.scale(scale: 0.1, anchor: .center))
+                    case .failure:
+                        Image(systemName: "exclamationmark.square")
+                            .resizable().scaledToFit()
+                    @unknown default:
+                        Image(systemName: "exclamationmark.square")
+                            .resizable().scaledToFit()
+                    }
+                }
+                .frame(width: 40.0, height: 40.0)
                 Text(title)
             }
         }
